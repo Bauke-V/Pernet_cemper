@@ -1,0 +1,2542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='belgianjazzdiscography-artists.xsl'?>
+<belgianjazzdiscography>
+	<sessions>
+    	<session id="0" summary="1952--|Brussels|Michel Abeel" pernet="(B) Brussels:          1952">
+			<dates ymd="1952-00-00">
+				<date>
+					<year>1952</year>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>BE</country>
+					<city>Brussels</city>
+				</location>
+			</locations>
+			<artists pernet="Michel Abeel (r.n. Henri Michel Van Den Abeel)(acc), with unidentified(p), (xyl/chimes), (dm).">
+				<artist info="r.n. Henri Michel Van Den Abeel" instr="acc">Michel Abeel</artist>
+				<x instr="p">1</x>
+				<x instr="xyl/chimes">1</x>
+				<x instr="dm">1</x>
+			</artists>
+			<albums>
+				<album>MICHEL ABEEL (accordéon) avec Rythmes</album>
+			</albums>
+			<songs>
+				<song mx="AA19043.1H1" compo="Tivoli">
+					<credits />
+					<releases>
+						<release id="Philips|P19043H" />
+					</releases>
+				</song>
+				<song mx="AA19076-1H1" compo="La Fille de Londres">
+					<credits />
+					<releases>
+						<release id="Philips|P19076H" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="3" summary="1942-09-|Berlin|Kurt Abraham" pernet="(G) Berlin: September, 1942">
+			<dates ymd="1942-09-00">
+				<date>
+					<year>1942</year>
+					<month>09</month>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>DE</country>
+					<city>Berlin</city>
+				</location>
+			</locations>
+			<artists pernet="Kurt Abraham(cl, ts), Otto Türksch(tp), Hans Kummert(tb, vln), Lou Logist(fl, ts), Primo Angeli(p), Franz Fijal Lipinsky(g), Gustav Lück(b), Albert Dekker(dm)">
+				<artist instr="cl, ts">Kurt Abraham</artist>
+				<artist instr="tp">Otto Türksch</artist>
+				<artist instr="tb, vln">Hans Kummert</artist>
+				<artist instr="fl, ts">Lou Logist</artist>
+				<artist instr="p">Primo Angeli</artist>
+				<artist instr="g">Franz Fijal-Lipinsky</artist>
+				<artist instr="b">Gustav Lück</artist>
+				<artist instr="dm">Albert Dekker</artist>
+			</artists>
+			<albums>
+				<album>KURT ABRAHAM mit seinen Solisten</album>
+			</albums>
+			<songs>
+				<song mx="KC29286-2" compo="Mein Herz hat' Heut premiere">
+					<credits />
+					<releases>
+						<release id="Bob's Music|BS23" />
+						<release id="Imperial|17384" />
+					</releases>
+				</song>
+				<song mx="KC29287-2" compo="Ich hab' dich und Du hast mich">
+					<credits />
+					<releases>
+						<release id="Imperial|17384" />
+					</releases>
+				</song>
+				<song mx="KC29288" compo="Wir machen Musik">
+					<credits />
+					<releases>
+						<release id="Bob's Music|BS73" />
+						<release id="Imperial|17385" />
+					</releases>
+				</song>
+				<song mx="KC29289" compo="Wann wirst du wieder bei Mir sein">
+					<credits />
+					<releases>
+						<release id="Imperial|17385" />
+					</releases>
+				</song>
+				<song mx="KC29289-2" compo="Wann wirst du wieder bei Mir sein">
+					<credits />
+					<releases>
+						<release id="Bob's Music|BS10" doubt="" />
+						<release id="Imperial|17385" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="264" summary="1958--|Brussels|Francis Bay" pernet="(B) Brussels: 1958">
+			<dates ymd="1958-00-00">
+				<date>
+					<year>1958</year>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>BE</country>
+					<city>Brussels</city>
+				</location>
+			</locations>
+			<artists pernet="Omit Latin-percussions.">
+				<artist instr="ldr, cond">Francis Bay</artist>
+				<artist>Edmond Harnie</artist>
+				<artist>Louis Dehaes</artist>
+				<artist>Charlie Knegtel</artist>
+				<artist instr="tp">Jean Courtois</artist>
+				<artist>Albert Mertens</artist>
+				<artist instr="tb">Paul Annee</artist>
+				<artist>Frans L'Eglise</artist>
+				<artist>Jef Verhaegen</artist>
+				<artist>Benny Couroyer</artist>
+				<artist>Pros Creado</artist>
+				<artist instr="reeds">Guy Dossche</artist>
+				<artist instr="p">Jean Evans</artist>
+				<artist instr="g">Freddy Sunder</artist>
+				<artist instr="b">Clement De Maeyer</artist>
+				<artist instr="dm">Armand Van de Walle</artist>
+			</artists>
+			<albums>
+				<album>"THE BRUSSELS WORLD'S FAIR SALUTES THE ARTIE SHAW ORCHESTRA &amp; GRAMERCY 5"</album>
+				<album ref="OML1021">"SWING LOW GREAT CLARINET"</album>
+			</albums>
+			<songs note="Note: Omega Disk OML1021 = OSL21, Mecca OSL21, Sutton SU211, SSU211. Omega Disk OSRS-142 as by THE BAY FIVE. All tracks except &quot;Moonglow&quot; on Phonoband C5032. Prob. all tracks on FM Veri Sonics {2LP}VS-101. &quot;Stardust&quot;, Summit&quot;, &quot;Temptation&quot;, &quot;'s Wonderful&quot;, &quot;Begin&quot;, &quot;Cross&quot;, &quot;Dancing&quot; on Omegatape {tape}MTF3-8017, {tape}SFR3-4042.&#10;&quot;Begin The Beguine&quot; on Omega Disk OSL58. (2) also on Baccarola [Baccarola International] 77947ZT. (3) also on Saga ERO08013. (5) also on Boulevard 4011.">
+				<song mx="1258-1159" compo="Summit Ridge Drive">
+					<credits />
+					<releases>
+						<release id="FM Veri Sonics|VS101" doubt="" />
+						<release id="Mecca|OSL21" />
+						<release id="Omega Disk|OML1021" />
+						<release id="Omega Disk|OSL21" />
+						<release id="Omega Disk|OSRS142" />
+						<release id="Omegatape|MTF38017" />
+						<release id="Omegatape|SFR34042" />
+						<release id="Phonoband|C5032" />
+						<release id="Sutton|SSU211" />
+						<release id="Sutton|SU211" />
+					</releases>
+				</song>
+				<song mx="1258-1160" compo="Cross Your Heart">
+					<credits />
+					<releases>
+						<release id="FM Veri Sonics|VS101" doubt="" />
+						<release id="Mecca|OSL21" />
+						<release id="Omega Disk|OML1021" />
+						<release id="Omega Disk|OSL21" />
+						<release id="Omega Disk|OSRS142" />
+						<release id="Omegatape|MTF38017" />
+						<release id="Omegatape|SFR34042" />
+						<release id="Phonoband|C5032" />
+						<release id="Sutton|SSU211" />
+						<release id="Sutton|SU211" />
+					</releases>
+				</song>
+				<song compo="Begin The Beguine" ref="2|3|5">
+					<releases>
+						<release id="Baccarola|77947ZT" />
+						<release id="Boulevard|4011" />
+						<release id="FM Veri Sonics|VS101" doubt="" />
+						<release id="Mecca|OSL21" />
+						<release id="Omega Disk|OML1021" />
+						<release id="Omega Disk|OSL21" />
+						<release id="Omega Disk|OSL58" />
+						<release id="Omega Disk|OSRS142" />
+						<release id="Omegatape|MTF38017" />
+						<release id="Omegatape|SFR34042" />
+						<release id="Phonoband|C5032" />
+						<release id="Saga|ERO08013" />
+						<release id="Sutton|SSU211" />
+						<release id="Sutton|SU211" />
+					</releases>
+				</song>
+				<song compo="Dancing In The Dark" ref="3|5">
+					<releases>
+						<release id="Boulevard|4011" />
+						<release id="FM Veri Sonics|VS101" doubt="" />
+						<release id="Mecca|OSL21" />
+						<release id="Omega Disk|OML1021" />
+						<release id="Omega Disk|OSL21" />
+						<release id="Omega Disk|OSRS142" />
+						<release id="Omegatape|MTF38017" />
+						<release id="Omegatape|SFR34042" />
+						<release id="Phonoband|C5032" />
+						<release id="Saga|ERO08013" />
+						<release id="Sutton|SSU211" />
+						<release id="Sutton|SU211" />
+					</releases>
+				</song>
+				<song compo="When The Quail Comes Back To San Quentin">
+					<credits />
+					<releases>
+						<release id="FM Veri Sonics|VS101" doubt="" />
+						<release id="Mecca|OSL21" />
+						<release id="Omega Disk|OML1021" />
+						<release id="Omega Disk|OSL21" />
+						<release id="Omega Disk|OSRS142" />
+						<release id="Omegatape|MTF38017" />
+						<release id="Omegatape|SFR34042" />
+						<release id="Phonoband|C5032" />
+						<release id="Sutton|SSU211" />
+						<release id="Sutton|SU211" />
+					</releases>
+				</song>
+				<song compo="Temptation">
+					<credits />
+					<releases>
+						<release id="FM Veri Sonics|VS101" doubt="" />
+						<release id="Mecca|OSL21" />
+						<release id="Omega Disk|OML1021" />
+						<release id="Omega Disk|OSL21" />
+						<release id="Omega Disk|OSRS142" />
+						<release id="Omegatape|MTF38017" />
+						<release id="Omegatape|SFR34042" />
+						<release id="Phonoband|C5032" />
+						<release id="Sutton|SSU211" />
+						<release id="Sutton|SU211" />
+					</releases>
+				</song>
+				<song compo="'S Wonderful" ref="3|5">
+					<releases>
+						<release id="Boulevard|4011" />
+						<release id="FM Veri Sonics|VS101" doubt="" />
+						<release id="Mecca|OSL21" />
+						<release id="Omega Disk|OML1021" />
+						<release id="Omega Disk|OSL21" />
+						<release id="Omega Disk|OSRS142" />
+						<release id="Omegatape|MTF38017" />
+						<release id="Omegatape|SFR34042" />
+						<release id="Phonoband|C5032" />
+						<release id="Saga|ERO08013" />
+						<release id="Sutton|SSU211" />
+						<release id="Sutton|SU211" />
+					</releases>
+				</song>
+				<song compo="Stardust">
+					<credits />
+					<releases>
+						<release id="FM Veri Sonics|VS101" doubt="" />
+						<release id="Mecca|OSL21" />
+						<release id="Omega Disk|OML1021" />
+						<release id="Omega Disk|OSL21" />
+						<release id="Omega Disk|OSRS142" />
+						<release id="Omegatape|MTF38017" />
+						<release id="Omegatape|SFR34042" />
+						<release id="Phonoband|C5032" />
+						<release id="Sutton|SSU211" />
+						<release id="Sutton|SU211" />
+					</releases>
+				</song>
+				<song compo="Frenesi">
+					<credits />
+					<releases>
+						<release id="FM Veri Sonics|VS101" doubt="" />
+						<release id="Mecca|OSL21" />
+						<release id="Omega Disk|OML1021" />
+						<release id="Omega Disk|OSL21" />
+						<release id="Omega Disk|OSRS142" />
+						<release id="Omegatape|MTF38017" />
+						<release id="Omegatape|SFR34042" />
+						<release id="Phonoband|C5032" />
+						<release id="Sutton|SSU211" />
+						<release id="Sutton|SU211" />
+					</releases>
+				</song>
+				<song compo="Moonglow" ref="3|5">
+					<releases>
+						<release id="Boulevard|4011" />
+						<release id="FM Veri Sonics|VS101" doubt="" />
+						<release id="Mecca|OSL21" />
+						<release id="Omega Disk|OML1021" />
+						<release id="Omega Disk|OSL21" />
+						<release id="Omega Disk|OSRS142" />
+						<release id="Omegatape|MTF38017" />
+						<release id="Omegatape|SFR34042" />
+						<release id="Saga|ERO08013" />
+						<release id="Sutton|SSU211" />
+						<release id="Sutton|SU211" />
+					</releases>
+				</song>
+				<song compo="Nightmare">
+					<credits />
+					<releases>
+						<release id="FM Veri Sonics|VS101" doubt="" />
+						<release id="Mecca|OSL21" />
+						<release id="Omega Disk|OML1021" />
+						<release id="Omega Disk|OSL21" />
+						<release id="Omega Disk|OSRS142" />
+						<release id="Omegatape|MTF38017" />
+						<release id="Omegatape|SFR34042" />
+						<release id="Phonoband|C5032" />
+						<release id="Sutton|SSU211" />
+						<release id="Sutton|SU211" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+        </session>
+        <session id="271" summary="1960--|Brussels|Francis Bay" pernet="(B) Brussels: prob. in 1960">
+			<dates ymd="?1960-00-00">
+				<date>
+					<year doubt="">1960</year>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>BE</country>
+					<city>Brussels</city>
+				</location>
+			</locations>
+			<artists pernet="Usual Francis Bay personnel.">
+				<artist info="ldr, cond">Francis Bay</artist>
+				<artist doubt="">Edmond Harnie</artist>
+				<artist doubt="">Louis Dehaes</artist>
+				<artist doubt="">Charlie Knegtel</artist>
+				<artist instr="tp" doubt="">Jean Courtois</artist>
+				<artist doubt="">Albert Mertens</artist>
+				<artist instr="tb" doubt="">Paul Annee</artist>
+				<artist doubt="">Frans L'Eglise</artist>
+				<artist doubt="">Jef Verhaegen</artist>
+				<artist doubt="">Benny Couroyer</artist>
+				<artist doubt="">Pros Creado</artist>
+				<artist instr="reeds" doubt="">Guy Dossche</artist>
+				<artist instr="p" doubt="">Jean Evans</artist>
+				<artist instr="g" doubt="">Freddy Sunder</artist>
+				<artist instr="b" doubt="">Clement De Maeyer</artist>
+				<artist instr="dm" doubt="">Armand Van de Walle</artist>
+			</artists>
+			<albums>
+				<album>"BIG SOUNDS" - "KENTONALITY" §</album>
+			</albums>
+			<songs>
+				<song compo="Swinging The Blues">
+					<credits />
+					<releases>
+						<release id="Saga|ER08012" />
+					</releases>
+				</song>
+				<song compo="Jumping At The Woodside">
+					<credits />
+					<releases>
+						<release id="Baccarola|77835ZT" />
+					</releases>
+				</song>
+				<song compo="Sugar Foot Stomp">
+					<credits />
+					<releases>
+						<release id="Baccarola|77835ZT" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="284" summary="1951-04-01|Brussels|Sidney Bechet" pernet="(B) Brussels: April 1, 1951|(live &quot;Palais des Beaux-Arts)">
+			<dates ymd="1951-04-01">
+				<date>
+					<year>1951</year>
+					<month>04</month>
+					<day>01</day>
+				</date>
+			</dates>
+			<locations extra="Live">
+				<location>
+					<country>BE</country>
+					<city>Brussels</city>
+					<venue>Palais des Beaux-Arts</venue>
+				</location>
+			</locations>
+			<artists pernet="Sidney Bechet(ss), Jacky Jun(ldr, as), Emile Peiffer(tp), Roger Asselberghs(bs, cl), Johnny Hot(p), Paul Karthy(g), Benoit Quersin(b), Jean Delange(dm).">
+				<artist instr="ss">Sidney Bechet</artist>
+				<artist instr="ldr, as">Jacky Jun</artist>
+				<artist instr="tp">Emile Peiffer</artist>
+				<artist instr="bs, cl">Roger Asselberghs</artist>
+				<artist instr="p">Johnny Hot</artist>
+				<artist instr="g">Paul Karthy</artist>
+				<artist instr="b">Benoît Quersin</artist>
+				<artist instr="dm">Jean Delange</artist>
+			</artists>
+			<albums>
+				<album>SIDNEY BECHET AND THE JUMP COLLEGE</album>
+			</albums>
+			<songs>
+				<song compo="Saint Louis Blues">
+					<credits />
+					<releases>
+						<release id="Acetate|" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="294" summary="1928-09-|Milano|David Bee" pernet="(It) Milano: ca. September 1928">
+			<dates ymd="?1928-09-00">
+				<date>
+					<year doubt="">1928</year>
+					<month>09</month>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>IT</country>
+					<city>Milano</city>
+				</location>
+			</locations>
+			<artists pernet="Same.">
+				<artist instr="ldr, as, cl, arr">David Bee</artist>
+				<artist instr="tp">Robert De Kers</artist>
+				<artist instr="tb">Sus Van Camp</artist>
+				<artist instr="p">René Van Dijck</artist>
+				<artist instr="g, vln">Chas Dolne</artist>
+				<artist instr="dm" alias="Pol">Léopold Serluppens</artist>
+				<artist instr="v">Rudy Bayfield Evans</artist>
+			</artists>
+			<albums>
+				<album>ORCHESTRE DAVID BEE AND HIS RED BEANS (*)</album>
+			</albums>
+			<songs>
+				<song compo="Manhattan Shuffle">
+					<credits />
+					<releases>
+						<release id="Fonotecnica||unissued" />
+					</releases>
+				</song>
+			</songs>
+			<notes>
+				<note>Note:(*) This band's name is engraved into the wax of one of the white-label test pressing. "Bernard Roux" appearing on these test-pressings, is in fact the name of the wax-disc manufacturer. According to Félix Faecq, these recordings may have been released on French "Gipsy" label..</note>
+			</notes>
+		</session>
+        <session id="310" summary="1991--|Herveld|Alain Crepin" pernet="(H) Herveld:          1991">
+			<dates ymd="1991-00-00">
+				<date>
+					<year>1991</year>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>NL</country>
+					<city>Herveld</city>
+				</location>
+			</locations>
+			<artists pernet="Unidentified personnel, probably similar to the next.">
+				<artist instr="cond" doubt="">Alain Crepin</artist>
+				<artist instr="Drum Major" doubt="">Jocelyn Quevy</artist>
+				<artist doubt="">Pierre Van Malderen</artist>
+				<artist instr="fl" doubt="">Tony Moermans</artist>
+				<artist instr="oboe" doubt="">Hubert Stas</artist>
+				<artist doubt="">Eric Christian</artist>
+				<artist instr="bassoon" doubt="">Serge Vermunicht</artist>
+				<artist instr="Eb cl" doubt="">Bruno Van Der Vorst</artist>
+				<artist doubt="">Francis Marbais</artist>
+				<artist doubt="">Walter Plessers</artist>
+				<artist doubt="">Georges Delaunois</artist>
+				<artist doubt="">Joseph Delcour</artist>
+				<artist doubt="">Eric Hotyat</artist>
+				<artist doubt="">Lean Lecloux</artist>
+				<artist doubt="">Johan Nijs</artist>
+				<artist doubt="">Claude Parmentier</artist>
+				<artist doubt="">Ronny Van De Winkel</artist>
+				<artist instr="Bb cl" doubt="">Erik Switsers</artist>
+				<artist doubt="">Olivier Zbona</artist>
+				<artist doubt="">Jacques Donnay</artist>
+				<artist doubt="">Daniel Steinier</artist>
+				<artist instr="as/ts" doubt="">Denis Piette</artist>
+				<artist doubt="">André Robette</artist>
+				<artist doubt="">Luc Devis</artist>
+				<artist doubt="">Michel Gerard</artist>
+				<artist doubt="">Théo Sacré</artist>
+				<artist doubt="">Jos Avonts</artist>
+				<artist doubt="">Rony Carpentier</artist>
+				<artist doubt="">Jean-Claude Legrand</artist>
+				<artist instr="tp/cnt" doubt="">Claude Melon</artist>
+				<artist doubt="">Pierre Castellan</artist>
+				<artist doubt="">Pierre Durochez</artist>
+				<artist doubt="">Jaak Govaere</artist>
+				<artist doubt="">Michel Keppenne</artist>
+				<artist doubt="">Michel Tasseroul</artist>
+				<artist doubt="">Patrick Van De Voorde</artist>
+				<artist doubt="">Alain Frederic</artist>
+				<artist instr="flh" doubt="">Olivier Prick</artist>
+				<artist doubt="">Jos Rossignol</artist>
+				<artist doubt="">Noël Perdaens</artist>
+				<artist doubt="">Jean Gathot</artist>
+				<artist doubt="">Franz Hupez</artist>
+				<artist doubt="">Carl Leroyu</artist>
+				<artist instr="horns" doubt="">Jean-Claude Menchior</artist>
+				<artist doubt="">Rudi De Wolf</artist>
+				<artist doubt="">Luc Stroeykens</artist>
+				<artist doubt="">Rudy Truchet</artist>
+				<artist instr="tb" doubt="">Olivier Declercq</artist>
+				<artist doubt="">Serge Gueret</artist>
+				<artist doubt="">Egide Lazarus</artist>
+				<artist doubt="">Dominique Lecomte</artist>
+				<artist doubt="">Noël Nozy</artist>
+				<artist instr="Baritone-horn" doubt="">Victor Decoster</artist>
+				<artist doubt="">Guido De Ranter</artist>
+				<artist doubt="">Josef Pauwels</artist>
+				<artist doubt="">Jacques Hopperets</artist>
+				<artist doubt="">Eric Sosson</artist>
+				<artist instr="tu" doubt="">Rudi De Bouw</artist>
+				<artist info="string bass" doubt="">Michel Careme</artist>
+				<artist instr="dm" doubt="">Jan Ceulemans</artist>
+				<artist instr="perc" doubt="">Daniel Demunter</artist>
+				<artist instr="mallet-perc" doubt="">Pascal Devroye</artist>
+				<artist instr="tymp" doubt="">Luc Moors</artist>
+				<artist instr="bass drum" doubt="">Marcel Segers</artist>
+			</artists>
+			<albums>
+				<album>"TIEROLFF FOR BAND" - THE BELGIAN AIR FORCE BAND Cond. Captain Alain Crépin</album>
+			</albums>
+			<songs>
+				<song compo="Entry-Jazzy-Disco">
+					<credits />
+					<releases>
+						<release id="Eurosound|ES47019CD" />
+					</releases>
+				</song>
+				<song compo="Marching Through America (with When Johnny Come Marching Home, Old Soldiers Never Die, Marine's March, Old folks At Home &amp; Dixie)" sic="47">
+					<credits />
+					<releases>
+						<release id="Eurosound|ES47019CD" />
+					</releases>
+				</song>
+				<song compo="Dancing Sounds No.1">
+					<credits />
+					<releases>
+						<release id="Eurosound|ES47019CD" />
+					</releases>
+				</song>
+				<song compo="Drumfonia">
+					<credits />
+					<releases>
+						<release id="Eurosound|ES47019CD" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="385" summary="1961-10-08|Paris|Lou Bennett" pernet="(F) Paris, October 8, 1961">
+			<dates ymd="1961-10-08">
+				<date>
+					<year>1961</year>
+					<month>10</month>
+					<day>08</day>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>FR</country>
+					<city>Paris</city>
+				</location>
+			</locations>
+			<artists pernet="Lou Bennett (r.n. Jean-Louis Benoit)(Ham-org), Philip Catherine(g), Larry Ritchie(dm)">
+				<artist info="r.n. Jean-Louis Benoit" instr="Ham-org">Lou Bennett</artist>
+				<artist instr="g">Philip Catherine</artist>
+				<artist instr="dm">Larry Ritchie</artist>
+			</artists>
+			<albums>
+				<album>LOU BENNETT QUARTET (sic)</album>
+			</albums>
+			<songs>
+				<song mx="OR61M456" compo="Last Night">
+					<credits />
+					<releases>
+						<release id="RCA|45185" />
+						<release id="RCA|76513" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="395" summary="1926-04-01|Amsterdam|Jef Candrix" pernet="(H) Amsterdam: April 1926|(prob. Hotel Schiller)">
+			<dates ymd="1926-04-01">
+				<date>
+					<year>1926</year>
+					<month>04</month>
+					<day>01</day>
+				</date>
+			</dates>
+			<locations extra="prob. Hotel Schiller">
+				<location>
+					<country>NL</country>
+					<city>Amsterdam</city>
+					<venue doubt="">Hotel Schiller</venue>
+				</location>
+			</locations>
+			<artists pernet="Lambert &quot;Jef&quot; Candrix(ldr, cl, as, ts, bs), Maurice Gerin(tp-1, vln-2), Alex Sorkine(tb-1, bjo-3, poss. vln-3) Nico de Rooij(p), Guillaume &quot;Lommeke&quot; Vanderborght(dm-1, tp-2).">
+				<artist info="r.n. Lambert" instr="ldr, cl, as, ts, bs">Jef Candrix</artist>
+				<artist instr="tp-1, vln-2">Maurice Gerin</artist>
+				<artist instr="tb-1, bjo-3, ?vln-3">Alex Sorkine</artist>
+				<artist instr="p">Nico de Rooij</artist>
+				<artist instr="dm-1, tp-2" alias="Lommeke">Guillaume Vanderborght</artist>
+			</artists>
+			<albums>
+				<album>Tuschinsky's Berceley's(sic)Jazz Band. Dirigent: Max Tak</album>
+			</albums>
+			<songs note="All Vox issues are &quot;made in Germany&quot;, these belonging to the H10000 series were pressed for Dutch market.">
+				<song mx="6151/2D" compo="Oh! Boy! What A Girl" ref="1">
+					<releases>
+						<release id="Vox|8207" />
+					</releases>
+				</song>
+				<song mx="616D" compo="I'm Gonna Charleston (Back To Charleston)" ref="1">
+					<releases>
+						<release id="Harlequin|HQ2022" />
+						<release id="Vox|8207" />
+					</releases>
+				</song>
+				<song mx="622D" compo="Want A Little Lovin" ref="2|3">
+					<credits>
+						<credit roll="v">X</credit>
+					</credits>
+					<releases>
+						<release id="Vox|8208" />
+					</releases>
+				</song>
+				<song compo="Stomp Off, Let's Go" ref="1 ?">
+					<releases>
+						<release id="Vox|8209" />
+					</releases>
+				</song>
+				<song compo="Sadko. Blues" ref="1 ?">
+					<releases>
+						<release id="Vox|8209" />
+					</releases>
+				</song>
+				<song mx="625D" compo="Are You Sorry?" ref="1|2|3">
+					<credits>
+						<credit roll="v">X</credit>
+					</credits>
+					<releases>
+						<release id="Vox|8210" />
+					</releases>
+				</song>
+				<song mx="6261/2D" compo="Angry" ref="1|2|3">
+					<releases>
+						<release id="Vox|8208" />
+					</releases>
+				</song>
+			</songs>
+			<notes>
+				<note>Notes: The name of Tuschinsky used on label comes from an engagement of The Berkeley's (correct name) at famous Dutch dance hall of the above name. Max Tak's name appears only for commercial reasons, as "supervisor" of these sessions. ~All Vox issues are "made in Germany", these belonging to the H10000 series were pressed for Dutch market. ~Most of the vocal tracks are of mild interest.</note>
+			</notes>
+		</session>
+        <session id="404" summary="1992--|Fort Lauderdale, FL|Randy Bernsen" pernet="(USA) Fort Lauderdale, Fla.:          1992">
+			<dates ymd="1992-00-00">
+				<date>
+					<year>1992</year>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>US</country>
+					<city>Fort Lauderdale, FL</city>
+				</location>
+			</locations>
+			<artists pernet="Randy Bernsen(g), Toots Thielemans(hca), Taras Kovayl(p), Jeff Carswell(b), Mark Griffith(dm), Othello Molineaux(steel-dm), Norman Arnold(perc), Rita Quintiro, Wendy Pederson(v).">
+				<artist instr="g">Randy Bernsen</artist>
+				<artist instr="hca">Toots Thielemans</artist>
+				<artist instr="p">Taras Kovayl</artist>
+				<artist instr="b">Jeff Carswell</artist>
+				<artist instr="dm">Mark Griffith</artist>
+				<artist instr="steel-dm">Othello Molineaux</artist>
+				<artist instr="perc">Norman Arnold</artist>
+				<artist>Rita Quintiro</artist>
+				<artist instr="v">Wendy Pederson</artist>
+			</artists>
+			<albums>
+				<album>"CALLING ME BACK HOME" - RANDY BERNSEN</album>
+			</albums>
+			<songs note="Note: other tracks from this CD are without Thielemans.">
+				<song compo="Now And Forever">
+					<credits />
+					<releases>
+						<release id="101 South Records|70602" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="502" summary="1992-12-07|Boom|Robert Verelst" pernet="(B) Boom: December 7, 1992|(Live &quot;Zaal Germinal&quot;)">
+			<dates ymd="1992-12-07">
+				<date>
+					<year>1992</year>
+					<month>12</month>
+					<day>07</day>
+				</date>
+			</dates>
+			<locations extra="Live">
+				<location>
+					<country>BE</country>
+					<city>Boom</city>
+					<venue>Zaal Germinal</venue>
+				</location>
+			</locations>
+			<artists pernet="Robert Verelst(ldr, cond, arr-1), Fred Van der Meiren, Rudi Bloemmen, Roger De Roeck, Jef Van der Seypen, Dirk De Roeck, Patrik Sas(tp), Paul van Wouwe, Rudy Fonteyne, Jules De Potter, Ben Torfs(tb), Eddy Dedrie(btb), Gan van Wouwe(as, fl), Eddy Coeck(as, cl, fl), Mon Peeters(ts), Harry Broeckmeyer(ts, fl, cl), Frans Teugels(bs), Jacky Coppejans(p), Alain Smits(g), Luc Chatlin(elb), Jos Gerinckx(dm), Peter Van Woensel(perc).">
+				<artist instr="ldr, cond, arr-1">Robert Verelst</artist>
+				<artist>Fred Van der Meiren</artist>
+				<artist>Rudi Bloemmen</artist>
+				<artist>Roger De Roeck</artist>
+				<artist>Jef Van der Seypen</artist>
+				<artist>Dirk De Roeck</artist>
+				<artist instr="tp">Patrik Sas</artist>
+				<artist>Paul van Wouwe</artist>
+				<artist>Rudy Fonteyne</artist>
+				<artist>Jules De Potter</artist>
+				<artist instr="tb">Ben Torfs</artist>
+				<artist instr="btb">Eddy Dedrie</artist>
+				<artist instr="as, fl">Gan van Wouwe</artist>
+				<artist instr="as, cl, fl">Eddy Coeck</artist>
+				<artist instr="ts">Mon Peeters</artist>
+				<artist instr="ts, fl, cl">Harry Broeckmeyer</artist>
+				<artist instr="bs">Frans Teugels</artist>
+				<artist instr="p">Jacky Coppejans</artist>
+				<artist instr="g">Alain Smits</artist>
+				<artist instr="elb">Luc Chatlin</artist>
+				<artist instr="dm">Jos Gerinckx</artist>
+				<artist instr="perc">Peter Van Woensel</artist>
+			</artists>
+			<albums>
+				<album>"A BAY OF CLOUDS" - 10 JAAR BOOM BIG BAND</album>
+			</albums>
+			<songs>
+				<song compo="In A Mellow Tone" ref="1">
+					<releases>
+						<release id="Clymrecords|CD930701" />
+					</releases>
+				</song>
+				<song compo="Channel One Suite">
+					<credits />
+					<releases>
+						<release id="Clymrecords|CD930701" />
+					</releases>
+				</song>
+				<song compo="Ik ben zo eenzaam..." ref="1">
+					<releases>
+						<release id="Clymrecords|CD930701" />
+					</releases>
+				</song>
+				<song compo="Little Minor Booze">
+					<credits />
+					<releases>
+						<release id="Clymrecords|CD930701" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="1484" summary="1987-12-27|Machelen|Paul Schoovaerts" pernet="(B) Machelen: December 27, 1987|(&quot;Nova Complex&quot;)">
+			<dates ymd="1987-12-27">
+				<date>
+					<year>1987</year>
+					<month>12</month>
+					<day>27</day>
+				</date>
+			</dates>
+			<locations extra="&quot;Nova Complex&quot;">
+				<location>
+					<country>BE</country>
+					<city>Machelen</city>
+					<venue>Nova Complex</venue>
+				</location>
+			</locations>
+			<artists pernet="Paul Schoovaerts(cond), Gaston Cornelis, Jan De Coninck, Albert Govaert, Eric Hernalsteen, Christian Pepermans, Freddy Van Calsteren, Guillaume Van Leemputten(tp), René Delhaye, Constant De Snijder, Daniel Van Calsteren, Johnny Verhoeven, Jan Walravens(tb), Johnny Bulinckx, Dirk Davidts, Guido De Ranter, Arthur De Rijcke, Laurent Schoovaerts, Gust Stevens, Robert Van Beneden, Gilbert Vanden Berghe, Adrien Van Halle, Daniel Verhulst(b-horn), Georges Coopmans, Pierre Hertoghe, Jean-Luc Huyens, Jan Kemps, Ilse Kemps, Marc Lambelin, Philippe Peeters, Edouard Schoovaerts, Véronique Van Beneden, Arthur Van Migerode, Christiane Vermeulen, Anne Walravens(cl), Alfons De Bruyne(bcl), Bernard Byl, Emile Desmet, Roger Verhaeren, Luc Verhoeven(fl), Fernand Burton(oboe), Paul Everaert(bassoon), Monique Cuyt, Anik De Snijder, Pierre De Snijder, Gerda Hernalsteen, Pascal Popelin, Vera Stas, Edouard Sterckx(saxes), Willy Wantier(bg), Philippe Schoovaerts(dm), Madi De Coninck(tymp), Daniel Demunter, Luc De Snijder, Frans Verhulst(perc), Tina Martin(?)(v-1).">
+				<artist instr="cond">Paul Schoovaerts</artist>
+				<artist>Gaston Cornelis</artist>
+				<artist>Jan De Coninck</artist>
+				<artist>Albert Govaert</artist>
+				<artist>Eric Hernalsteen</artist>
+				<artist>Christian Pepermans</artist>
+				<artist>Freddy Van Calsteren</artist>
+				<artist instr="tp">Guillaume Van Leemputten</artist>
+				<artist>René Delhaye</artist>
+				<artist>Constant De Snijder</artist>
+				<artist>Daniel Van Calsteren</artist>
+				<artist>Johnny Verhoeven</artist>
+				<artist instr="tb">Jan Walravens#tb</artist>
+				<artist>Johnny Bulinckx</artist>
+				<artist>Dirk Davidts</artist>
+				<artist>Guido De Ranter</artist>
+				<artist>Arthur De Rijcke</artist>
+				<artist>Laurent Schoovaerts</artist>
+				<artist>Gust Stevens</artist>
+				<artist>Robert Van Beneden</artist>
+				<artist>Gilbert Vanden Berghe</artist>
+				<artist>Adrien Van Halle</artist>
+				<artist instr="b-horn">Daniel Verhulst</artist>
+				<artist>Georges Coopmans</artist>
+				<artist>Pierre Hertoghe</artist>
+				<artist>Jean-Luc Huyens</artist>
+				<artist>Jan Kemps</artist>
+				<artist>Ilse Kemps</artist>
+				<artist>Marc Lambelin</artist>
+				<artist>Philippe Peeters</artist>
+				<artist>Edouard Schoovaerts</artist>
+				<artist>Véronique Van Beneden</artist>
+				<artist>Arthur Van Migerode</artist>
+				<artist>Christiane Vermeulen</artist>
+				<artist instr="cl">Anne Walravens</artist>
+				<artist instr="bcl">Alfons De Bruyne</artist>
+				<artist>Bernard Byl</artist>
+				<artist>Emile Desmet</artist>
+				<artist>Roger Verhaeren</artist>
+				<artist instr="fl">Luc Verhoeven</artist>
+				<artist instr="oboe">Fernand Burton</artist>
+				<artist instr="bassoon">Paul Everaert</artist>
+				<artist>Monique Cuyt</artist>
+				<artist>Anik De Snijder</artist>
+				<artist>Pierre De Snijder</artist>
+				<artist>Gerda Hernalsteen</artist>
+				<artist>Pascal Popelin</artist>
+				<artist>Vera Stas</artist>
+				<artist instr="saxes">Edouard Sterckx</artist>
+				<artist instr="bg">Willy Wantier</artist>
+				<artist instr="dm">Philippe Schoovaerts</artist>
+				<artist instr="tymp">Madi De Coninck</artist>
+				<artist>Daniel Demunter</artist>
+				<artist>Luc De Snijder</artist>
+				<artist instr="perc">Frans Verhulst</artist>
+				<artist info="?" instr="v-1">Tina Martin</artist>
+			</artists>
+			<albums>
+				<album>"WITH COMPLIMENTS" - "DE EENDRACHT" HAREN {Koninklijke Harmonie "De EENDRACHT" Haren (Brussel)}</album>
+			</albums>
+			<songs>
+				<song compo="The Blues">
+					<credits />
+					<releases>
+						<release id="Eurosound|ES46867" />
+					</releases>
+				</song>
+				<song compo="Billy Joel In Concert">
+					<credits />
+					<releases>
+						<release id="Eurosound|ES46867" />
+					</releases>
+				</song>
+				<song compo="You Needed Me" ref="1">
+					<releases>
+						<release id="Eurosound|ES46867" />
+					</releases>
+				</song>
+				<song compo="Tribute To The Count">
+					<credits />
+					<releases>
+						<release id="Eurosound|ES46867" />
+					</releases>
+				</song>
+				<song compo="A Cole Porter Spectacular">
+					<credits />
+					<releases>
+						<release id="Eurosound|ES46867" />
+					</releases>
+				</song>
+				<song compo="Flashdance... What A Feeling">
+					<credits />
+					<releases>
+						<release id="Eurosound|ES46867" />
+					</releases>
+				</song>
+				<song compo="The Seventies">
+					<credits />
+					<releases>
+						<release id="Eurosound|ES46867" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="1506" summary="1967-02-27|Basel|Franco Ambrosetti" pernet="(Sz) Basel: February 27, 1967">
+			<dates ymd="1967-02-27">
+				<date>
+					<year>1967</year>
+					<month>02</month>
+					<day>27</day>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>CH</country>
+					<city>Basel</city>
+				</location>
+			</locations>
+			<artists pernet="Franco Ambrosetti(tp), Isla Eckinger(tb), Andy Scherrer(ts), Joel Vandroogenbroek(p), Louis Mermet(b), Peter Schmidlin(dm).">
+				<artist instr="tp">Franco Ambrosetti</artist>
+				<artist instr="tb">Isla Eckinger</artist>
+				<artist instr="ts">Andy Scherrer</artist>
+				<artist instr="p">Joel Vandroogenbroeck</artist>
+				<artist instr="b">Louis Mermet</artist>
+				<artist instr="dm">Peter Schmidlin</artist>
+			</artists>
+			<albums>
+				<album>JAZZ IN BASEL - E.S.P.J.A.M.</album>
+			</albums>
+			<songs note="Note: other tracks from this LP are by different groups.">
+				<song compo="Inside Run">
+					<credits />
+					<releases>
+						<release id="Jazz In Basel|LP30150" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="1508" summary="1927-07-|Berlin|Bernard Etté" pernet="(G) Berlin: ca. July 1927">
+			<dates ymd="?1927-07-00">
+				<date>
+					<year doubt="">1927</year>
+					<month>07</month>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>DE</country>
+					<city>Berlin</city>
+				</location>
+			</locations>
+			<artists pernet="Bernard Etté(ldr, vln), Rudy Herman &amp; unidentified(tp),Georg Lohmann(tb), Mike Herman, Buddy Wagner, unidentified(reeds), Max Schmidt(vln), Heinz Schmidt(p), Louis Deveydt(acc, sax), Albert Deveydt(acc, vln), Tony Morello(bjo, g, v), Harry Schroeder(Sousa), Luggi Stampfl(dm), John Shevlin, Phil Arnold(v).">
+				<artist instr="ldr, vln">Bernard Etté</artist>
+				<artist>Rudy Hermann</artist>
+				<x instr="tp">1</x>
+				<artist instr="tb">Georg Lohmann</artist>
+				<artist>Mike Herman</artist>
+				<artist>Buddy Wagner</artist>
+				<x instr="reeds">1</x>
+				<artist instr="vln">Max Schmidt</artist>
+				<artist instr="p">Heinz Schmidt</artist>
+				<artist instr="acc, sax">Louis Deveydt</artist>
+				<artist instr="acc, vln">Albert Deveydt</artist>
+				<artist instr="bjo, g, v">Tony Morello</artist>
+				<artist instr="Sousa">Harry Schroeder</artist>
+				<artist instr="dm">Luggi Stampfl</artist>
+				<artist>John Shevlin</artist>
+				<artist instr="v">Phil Arnold</artist>
+			</artists>
+			<albums>
+				<album>Tanz-Orchester Bernard Etté</album>
+				<album>Tanz-Orchester Bernard Etté mit Englischem Refraingesang</album>
+			</albums>
+			<songs note="All issues are German Vox and Kristall unless otherwise indicated.">
+				<song mx="1958BB" compo="Sam The Old Accordion Man">
+					<credits />
+					<releases>
+						<release id="Vox||unissued" />
+					</releases>
+				</song>
+				<song mx="19581BB" compo="Sam The Old Accordion Man">
+					<credits>
+						<credit roll="v">Phil Arnold</credit>
+					</credits>
+					<releases>
+						<release id="Hörzu Exclusiv|1C13432447" disc="1C134-32448" />
+						<release id="Vox|8528" />
+					</releases>
+				</song>
+				<song mx="1960BB" compo="Rosy Cheeks">
+					<credits />
+					<releases>
+						<release id="Vox||unissued" />
+					</releases>
+				</song>
+				<song mx="19601BB" compo="Rosy Cheeks">
+					<credits>
+						<credit roll="v">Tony Morello</credit>
+					</credits>
+					<releases>
+						<release id="Vox|8528" doubt="" />
+					</releases>
+				</song>
+				<song mx="1961BB" compo="Close Your Eyes">
+					<credits />
+					<releases>
+						<release id="Vox||unissued" />
+					</releases>
+				</song>
+				<song mx="19611BB" compo="Close Your Eyes">
+					<credits>
+						<credit roll="v">John Shevlin</credit>
+					</credits>
+					<releases>
+						<release id="Vox|8529" />
+					</releases>
+				</song>
+				<song mx="1962BB" compo="Hello Bluebird">
+					<credits>
+						<credit roll="v">Phil Arnold</credit>
+					</credits>
+					<releases>
+						<release id="Vox|8529" />
+					</releases>
+				</song>
+				<song mx="1963BB" compo="Because I Love You">
+					<credits>
+						<credit roll="v">John Shevlin</credit>
+					</credits>
+					<releases>
+						<release id="Vox|8530" />
+					</releases>
+				</song>
+				<song mx="1964BB" compo="One Alone">
+					<credits />
+					<releases>
+						<release id="Vox|r8531" />
+					</releases>
+				</song>
+				<song mx="1965BB" compo="That Little Something">
+					<credits />
+					<releases>
+						<release id="Vox|8531" />
+					</releases>
+				</song>
+				<song mx="1973BB" compo="I Know That You Know">
+					<credits />
+					<releases>
+						<release id="Vox|8533" />
+					</releases>
+				</song>
+				<song mx="1975BB" compo="Moonbeam! Kiss Her For Me">
+					<credits />
+					<releases>
+						<release id="Vox|8547" />
+					</releases>
+				</song>
+				<song mx="1979BB" compo="The Doll Dance">
+					<credits />
+					<releases>
+						<release id="Vox|8532" />
+					</releases>
+				</song>
+				<song mx="1983BB" compo="Russian Lullaby">
+					<credits>
+						<credit roll="v">John Shevlin</credit>
+					</credits>
+					<releases>
+						<release id="Vox|8530" />
+					</releases>
+				</song>
+				<song mx="1985BB" compo="Just A Joy Covered Shak" sic="">
+					<credits />
+					<releases>
+						<release id="Vox|8532" />
+					</releases>
+				</song>
+				<song mx="1987BB" compo="A Lane In Spain">
+					<credits />
+					<releases>
+						<release id="Vox|8533" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+		<session id="1509" summary="1927-09-|Berlin|Bernard Etté" pernet="(G) Berlin: late September 1927">
+			<dates ymd="1927-09-late">
+				<date>
+					<year>1927</year>
+					<month>09</month>
+					<x>late</x>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>DE</country>
+					<city>Berlin</city>
+				</location>
+			</locations>
+			<artists pernet="Same as above plus Ivan Frank(v). ">
+				<artist instr="ldr, vln">Bernard Etté</artist>
+				<artist>Rudy Hermann</artist>
+				<x instr="tp">1</x>
+				<artist instr="tb">Georg Lohmann</artist>
+				<artist>Mike Herman</artist>
+				<artist>Buddy Wagner</artist>
+				<x instr="reeds">1</x>
+				<artist instr="vln">Max Schmidt</artist>
+				<artist instr="p">Heinz Schmidt</artist>
+				<artist instr="acc, sax">Louis Deveydt</artist>
+				<artist instr="acc, vln">Albert Deveydt</artist>
+				<artist instr="bjo, g, v">Tony Morello</artist>
+				<artist instr="Sousa">Harry Schroeder</artist>
+				<artist instr="dm">Luggi Stampfl</artist>
+				<artist>John Shevlin</artist>
+				<artist instr="v">Phil Arnold</artist>
+				<artist instr="v">Ivan Frank</artist>
+			</artists>
+			<albums>
+				<album>Tanz-Orchester Bernard Etté</album>
+				<album>Tanz-Orchester Bernard Etté mit Englischem Refraingesang</album>
+			</albums>
+			<songs note="All issues are German Vox and Kristall unless otherwise indicated.">
+				<song mx="2022BB" compo="Rio Rita">
+					<credits>
+						<credit roll="v">John Shevlin</credit>
+					</credits>
+					<releases>
+						<release id="Vox|8515" />
+					</releases>
+				</song>
+				<song mx="2023BB" compo="Bananas Slide">
+					<credits />
+					<releases>
+						<release id="Vox|8515" />
+					</releases>
+				</song>
+				<song mx="2024BB" compo="Du und Ich, Ich und Du">
+					<credits />
+					<releases>
+						<release id="Vox|8534" />
+					</releases>
+				</song>
+				<song mx="2040BB" compo="Heut' war Ich bei der Frieda">
+					<credits>
+						<credit roll="v">Ivan Frank</credit>
+					</credits>
+					<releases>
+						<release id="Vox|8535" />
+					</releases>
+				</song>
+				<song mx="2041BB" compo="Du und Ich, Ich und Du">
+					<credits>
+						<credit roll="v">Ivan Frank</credit>
+					</credits>
+					<releases>
+						<release id="Vox|8535" />
+					</releases>
+				</song>
+				<song mx="2042BB" compo="Passen Sie mal auf?">
+					<credits>
+						<credit roll="v">X</credit>
+					</credits>
+					<releases>
+						<release id="Vox|8548" />
+					</releases>
+				</song>
+				<song mx="2043BB" compo="Sha-Wan-Da-Moo">
+					<credits />
+					<releases>
+						<release id="Vox|8547" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+		<session id="1510" summary="1927-10-|Berlin|Bernard Etté" pernet="(G) Berlin: October 1927">
+			<dates ymd="1927-10-00">
+				<date>
+					<year>1927</year>
+					<month>10</month>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>DE</country>
+					<city>Berlin</city>
+				</location>
+			</locations>
+			<artists pernet="Same as above plus Ivan Frank(v).">
+				<artist instr="ldr, vln">Bernard Etté</artist>
+				<artist>Rudy Hermann</artist>
+				<x instr="tp">1</x>
+				<artist instr="tb">Georg Lohmann</artist>
+				<artist>Mike Herman</artist>
+				<artist>Buddy Wagner</artist>
+				<x instr="reeds">1</x>
+				<artist instr="vln">Max Schmidt</artist>
+				<artist instr="p">Heinz Schmidt</artist>
+				<artist instr="acc, sax">Louis Deveydt</artist>
+				<artist instr="acc, vln">Albert Deveydt</artist>
+				<artist instr="bjo, g, v">Tony Morello</artist>
+				<artist instr="Sousa">Harry Schroeder</artist>
+				<artist instr="dm">Luggi Stampfl</artist>
+				<artist>John Shevlin</artist>
+				<artist instr="v">Phil Arnold</artist>
+				<artist instr="v">Ivan Frank</artist>
+			</artists>
+			<albums>
+				<album>Tanz-Orchester Bernard Etté</album>
+				<album>Tanz-Orchester Bernard Etté mit Englischem Refraingesang</album>
+			</albums>
+			<songs note="All issues are German Vox and Kristall unless otherwise indicated.">
+				<song mx="2070BB" compo="My Baby, My Boy">
+					<credits />
+					<releases>
+						<release id="Vox|8549" />
+					</releases>
+				</song>
+				<song mx="2072BB" compo="&quot;The Great Four&quot; Nr.4: One Step">
+					<credits />
+					<releases>
+						<release id="Vox|8574" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="2311" summary="1964-05-01|New York|J. J. Johnson" pernet="(USA) New York: May 1, 1964">
+			<dates ymd="1964-05-01">
+				<date>
+					<year>1964</year>
+					<month>05</month>
+					<day>01</day>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>US</country>
+					<city>New York</city>
+				</location>
+			</locations>
+			<artists pernet="J.J. Johnson(ldr, tb), McCoy Tyner(p), Toots Thielemans(g, hca), Richard Davis(b), Elvin Jones(dm).">
+				<artist instr="ldr, tb">J. J. Johnson</artist>
+				<artist instr="p">McCoy Tyner</artist>
+				<artist instr="g, hca">Toots Thielemans</artist>
+				<artist instr="b">Richard Davis</artist>
+				<artist instr="dm">Elvin Jones</artist>
+			</artists>
+			<albums>
+				<album ref="Impulse 68">"PROOF POSITIVE" - J. J. JOHNSON QUARTET</album>
+				<album ref="Impulse 227">"J. J. JOHNSON QUARTET"</album>
+			</albums>
+			<songs note="Note:&#10;Impulse! A68 = AS68, MCA MCA29072, GRP 11452&#10;Impulse! A227 and its equivalent in stereo AS227 have been announced but were apparently never released.">
+				<song compo="Lullaby Of Jazzland">
+					<credits />
+					<releases>
+						<release id="GRP|11452" />
+						<release id="Impulse!|A68" />
+						<release id="Impulse!|AS68" />
+						<release id="MCA|MCA29072" />
+					</releases>
+				</song>
+				<song compo="Across The Karoo">
+					<credits />
+					<releases>
+						<release id="Impulse!|A227|unissued" />
+						<release id="Impulse!|AS227|unissued" />
+					</releases>
+				</song>
+				<song compo="Theme For Lilies On The Fields">
+					<credits />
+					<releases>
+						<release id="Impulse!|A227|unissued" />
+						<release id="Impulse!|AS227|unissued" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="2325" summary="1964-02-05|New York|Quincy Jones" pernet="(USA) New York: February 5, 1964">
+			<dates ymd="1964-02-05">
+				<date>
+					<year>1964</year>
+					<month>02</month>
+					<day>05</day>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>US</country>
+					<city>New York</city>
+				</location>
+			</locations>
+			<artists pernet="Quincy Delight Jones Jr.(ldr, cond, arr), Ernie Royal(tp), Billy Byers(tb), Jerome Richardson, Walter Kane, Phil Woods, Zoot Sims(reeds), Bobby Scott(p), Gary Burton(vb), Toots Thielemans(g, hca, wh), Major Holley, Milt Hinton(b), Osie Johnson(dm).">
+				<artist info="r.n. Quincy Delight Jones Jr." instr="ldr, cond, arr">Quincy Jones</artist>
+				<artist instr="tp">Ernie Royal</artist>
+				<artist instr="tb">Billy Byers</artist>
+				<artist>Jerome Richardson</artist>
+				<artist>Walter Kane</artist>
+				<artist>Phil Woods</artist>
+				<artist instr="reeds">Zoot Sims</artist>
+				<artist instr="p">Bobby Scott</artist>
+				<artist instr="vb">Gary Burton</artist>
+				<artist instr="g, hca, wh">Toots Thielemans</artist>
+				<artist>Major Holley</artist>
+				<artist instr="b">Milt Hinton</artist>
+				<artist instr="dm">Osie Johnson</artist>
+			</artists>
+			<albums>
+				<album>"QUINCY JONES EXPLORES THE MUSIC OF HENRI MANCINI" - QUINCY JONES AND HIS ORCHESTRA</album>
+			</albums>
+			<songs note="Note: Mercury MG20863 = Mercury SR60863, 125917MCL, 125917MCM, SMCL20016">
+				<song mx="31074" compo="Odd Ball">
+					<credits />
+					<releases>
+						<release id="Mercury|125917MCL" />
+						<release id="Mercury|125917MCM" />
+						<release id="Mercury|MG20863" />
+						<release id="Mercury|SMCL20016" />
+						<release id="Mercury|SR60863" />
+					</releases>
+				</song>
+				<song mx="31075" compo="Bird Brain">
+					<credits />
+					<releases>
+						<release id="Mercury|125917MCL" />
+						<release id="Mercury|125917MCM" />
+						<release id="Mercury|MG20863" />
+						<release id="Mercury|SMCL20016" />
+						<release id="Mercury|SR60863" />
+					</releases>
+				</song>
+				<song mx="31076" compo="Pink Panther">
+					<credits />
+					<releases>
+						<release id="Mercury|125917MCL" />
+						<release id="Mercury|125917MCM" />
+						<release id="Mercury|8307742" />
+						<release id="Mercury|MG20863" />
+						<release id="Mercury|SMCL20016" />
+						<release id="Mercury|SR60863" />
+					</releases>
+				</song>
+				<song mx="31077" compo="Soldier In The Rain">
+					<credits />
+					<releases>
+						<release id="Mercury|125917MCL" />
+						<release id="Mercury|125917MCM" />
+						<release id="Mercury|8307742" />
+						<release id="Mercury|MG20863" />
+						<release id="Mercury|SMCL20016" />
+						<release id="Mercury|SR60863" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="2900" summary="1981-07-17|Kerkrade|Tony Pringle" pernet="(H) Kerkrade: July 17, 1981">
+			<dates ymd="1981-07-17">
+				<date>
+					<year>1981</year>
+					<month>07</month>
+					<day>17</day>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>NL</country>
+					<city>Kerkrade</city>
+				</location>
+			</locations>
+			<artists pernet="Tony Pringle(ldr, tp), Stan Vincent(tb), Rudi Balliu(cl), Butch Thompson(p), Peter Bullis(bjo), Eli Newberger(tu), Cornelis H. &quot;Pam&quot; Pameijer(dm).">
+				<artist instr="ldr, tp">Tony Pringle</artist>
+				<artist instr="tb">Stan Vincent</artist>
+				<artist instr="cl">Rudy Balliu</artist>
+				<artist instr="p">Butch Thompson</artist>
+				<artist instr="bjo">Peter Bullis</artist>
+				<artist instr="tu">Eli Newberger</artist>
+				<artist instr="dm" alias="Pam">Cornelis H. Pameijer</artist>
+			</artists>
+			<albums>
+				<album>"LIVE IN THE NETHERLANDS" - THE NEW BLACK EAGLE JAZZ BAND</album>
+			</albums>
+			<songs>
+				<song compo="In The Sweet Bye And Bye">
+					<credits />
+					<releases>
+						<release id="Stomp Off Records|SOS1048" />
+					</releases>
+				</song>
+				<song compo="Careless Love">
+					<credits />
+					<releases>
+						<release id="Stomp Off Records|SOS1048" />
+					</releases>
+				</song>
+				<song compo="Perdido Street Blues">
+					<credits />
+					<releases>
+						<release id="Stomp Off Records|SOS1048" />
+					</releases>
+				</song>
+				<song compo="Pontchartrain Blues">
+					<credits />
+					<releases>
+						<release id="Stomp Off Records|SOS1048" />
+					</releases>
+				</song>
+				<song compo="Martha">
+					<credits />
+					<releases>
+						<release id="Stomp Off Records|SOS1048" />
+					</releases>
+				</song>
+				<song compo="Purple Rose Of Cairo">
+					<credits />
+					<releases>
+						<release id="Stomp Off Records|SOS1048" />
+					</releases>
+				</song>
+				<song compo="Love Song Of The Nile">
+					<credits />
+					<releases>
+						<release id="Stomp Off Records|SOS1048" />
+					</releases>
+				</song>
+				<song compo="Oriental Man">
+					<credits />
+					<releases>
+						<release id="Black Eagle|BECTHREE" />
+					</releases>
+				</song>
+				<song compo="Panama">
+					<credits />
+					<releases>
+						<release id="Black Eagle|BECTHREE" />
+					</releases>
+				</song>
+			</songs>
+			<notes>
+				<note>Note: "Perfect Rag" and "Home" from same session are without Rudi Balliu.</note>
+			</notes>
+		</session>
+        <session id="2904" summary="1974--|New Orleans, LA|Larry Schmidt" pernet="(USA) New Orleans, LA: 1974">
+			<dates ymd="1974-00-00">
+				<date>
+					<year>1974</year>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>US</country>
+					<city>New Orleans, LA</city>
+				</location>
+			</locations>
+			<artists pernet="Prob. Larry Schmidt(unknown instr), Jack Stewart(ss), Kay Moneaux &quot;The Famous Belgian Virtuoso&quot;(vln), Rick Shaw(v).">
+				<artist instr="unknown instr" doubt="">Larry Schmidt</artist>
+				<artist instr="ss">Jack Stewart</artist>
+				<artist instr="vln" alias="The Famous Belgian Virtuoso">Kay Moneaux</artist>
+				<artist instr="v">Rick Shaw</artist>
+			</artists>
+			<albums>
+				<album>"AN ORIENTAL EXTRAVAGANZA" - THE NEW LEVIATHAN ORIENTAL FOX-TROT ORCHESTRA</album>
+			</albums>
+			<songs>
+				<song compo="Oriental Girlk">
+					<credits />
+					<releases>
+						<release id="Race Records|19324" />
+					</releases>
+				</song>
+				<song compo="The Entertainer">
+					<credits />
+					<releases>
+						<release id="Race Records|19324" />
+					</releases>
+				</song>
+				<song compo="Magnetic Rag">
+					<credits />
+					<releases>
+						<release id="Race Records|19324" />
+					</releases>
+				</song>
+				<song compo="Panama">
+					<credits />
+					<releases>
+						<release id="Race Records|19324" />
+					</releases>
+				</song>
+				<song compo="Palesteena">
+					<credits />
+					<releases>
+						<release id="Race Records|19324" />
+					</releases>
+				</song>
+				<song compo="Poppy Time In Old Japan">
+					<credits />
+					<releases>
+						<release id="Race Records|19324" />
+					</releases>
+				</song>
+				<song compo="Mid The Pyramids">
+					<credits />
+					<releases>
+						<release id="Race Records|19324" />
+					</releases>
+				</song>
+				<song compo="Dardanella">
+					<credits />
+					<releases>
+						<release id="Race Records|19324" />
+					</releases>
+				</song>
+				<song compo="In Siam">
+					<credits />
+					<releases>
+						<release id="Race Records|19324" />
+					</releases>
+				</song>
+				<song compo="In China">
+					<credits />
+					<releases>
+						<release id="Race Records|19324" />
+					</releases>
+				</song>
+				<song compo="Oriental Moon">
+					<credits />
+					<releases>
+						<release id="Race Records|19324" />
+					</releases>
+				</song>
+				<song compo="Hyena Stomp">
+					<credits />
+					<releases>
+						<release id="Race Records|19324" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="3574" summary="1976--|Brussels|Daniel Schell" pernet="(B) poss. Brussels: 1976 to 1978">
+			<dates ymd="1976_1978">
+				<date>
+					<year>1976</year>
+				</date>
+				<x>untill</x>
+				<date>
+					<year>1978</year>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>BE</country>
+					<city doubt="">Brussels</city>
+				</location>
+			</locations>
+			<artists pernet="Daniel Schell(Schellekens)(ldr, comp, guitars), Dick Annegarn(v on A3,A6,B1, g on A3), Pascale Son(v on A4,A5,B2,B3,B4, oboe on B1), Dirk Bogart(v on A2,A4,B2,B4, fl on A7), Adelson de Frise(fl-A1), Michel Bergmans(oboe-A5), Pavel Haza(cello-A5), Jean-Louis Rassinfosse(b-B1), Jean-Louis Baudoin(b on other tracks), Félix Simtaine(dm), Ilona Chale(v-B1), Lucy Grauman(v-A6).">
+				<artist info="Schellekens" instr="ldr, comp, guitars">Daniel Schell</artist>
+				<artist instr="v on A3,A6,B1, g on A3">Dick Annegarn</artist>
+				<artist instr="v on A4,A5,B2,B3,B4, oboe on B1">Pascale Son</artist>
+				<artist instr="v on A2,A4,B2,B4, fl on A7">Dirk Bogaert</artist>
+				<artist instr="fl-A1">Adelson Defrise</artist>
+				<artist instr="oboe-A5">Michel Bergmans</artist>
+				<artist instr="cello-A5">Pavel Haza</artist>
+				<artist instr="b-B1">Jean-Louis Rassinfosse</artist>
+				<artist instr="b on other tracks">Jean-Louis Baudoin</artist>
+				<artist instr="dm">Félix Simtaine</artist>
+				<artist instr="v-B1">Ilona Chale</artist>
+				<artist instr="v-A6">Lucy Grauman</artist>
+			</artists>
+			<albums>
+				<album>"EGMONT and The ff Boom" - DANIEL SCHELL-DICK ANNEGARN</album>
+			</albums>
+			<songs>
+				<song mx="A1" compo="UD">
+					<credits />
+					<releases>
+						<release id="Free Bird|FB209" />
+					</releases>
+				</song>
+				<song mx="A2" compo="Piume al vento">
+					<credits />
+					<releases>
+						<release id="Free Bird|FB209" />
+					</releases>
+				</song>
+				<song mx="A3" compo="Nelle">
+					<credits />
+					<releases>
+						<release id="Free Bird|FB209" />
+					</releases>
+				</song>
+				<song mx="A4" compo="Sabina And First Variation">
+					<credits />
+					<releases>
+						<release id="Free Bird|FB209" />
+					</releases>
+				</song>
+				<song mx="A5" compo="La ballade du Zwin">
+					<credits />
+					<releases>
+						<release id="Free Bird|FB209" />
+					</releases>
+				</song>
+				<song mx="A6" compo="Geuzenlied">
+					<credits />
+					<releases>
+						<release id="Free Bird|FB209" />
+					</releases>
+				</song>
+				<song mx="A7" compo="Un instant sous la hache">
+					<credits />
+					<releases>
+						<release id="Free Bird|FB209" />
+					</releases>
+				</song>
+				<song mx="B1" compo="Granvelle">
+					<credits />
+					<releases>
+						<release id="Free Bird|FB209" />
+					</releases>
+				</song>
+				<song mx="B2" compo="Sabina And Second Variation">
+					<credits />
+					<releases>
+						<release id="Free Bird|FB209" />
+					</releases>
+				</song>
+				<song mx="B3" compo="Ein kleiner Man">
+					<credits />
+					<releases>
+						<release id="Free Bird|FB209" />
+					</releases>
+				</song>
+				<song mx="B4" compo="Sabina">
+					<credits />
+					<releases>
+						<release id="Free Bird|FB209" />
+					</releases>
+				</song>
+				<song mx="B5" compo="The ff Boom">
+					<credits />
+					<releases>
+						<release id="Free Bird|FB209" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="3581" summary="1954--|Brussels|Bobbejaan Schoepen" pernet="(B) Brussels:          1954">
+			<dates ymd="1954-00-00">
+				<date>
+					<year>1954</year>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>BE</country>
+					<city>Brussels</city>
+				</location>
+			</locations>
+			<artists pernet="Modeste &quot;Bobbejaan&quot; Schoepen(g, wh, imitating tp, tb, vln, Haw-g, b, cymbals, dm, v), Lou Logist(acc), poss. René Goldstein(b), Jo Demuynck(dm).">
+				<artist info="r.n. Modeste" instr="g, wh, imitating tp, tb, vln, Haw-g, b, cymbals, dm, v">Bobbejaan Schoepen</artist>
+				<artist instr="acc">Lou Logist</artist>
+				<artist instr="b" doubt="">René Goldstein</artist>
+				<artist instr="dm">Jo Demuynck</artist>
+			</artists>
+			<albums>
+				<album ref="FO4501">BOBBEJAAN joue le   {accomp. par LOU LOGIST et son ensemble}</album>
+				<album ref="FO4502">BOBBEJAAN joue et chante   {accomp. par LOU LOGIST et son ensemble}</album>
+			</albums>
+			<songs note="Note: Reissues are titled as follows: (R*)  RAGTIME DE L'HOMME ORCHESTRE   (R**)  RAGTIME (de l'Homme)">
+				<song mx="FO4501" compo="Ragtime de l'Homme Orchestre">
+					<credits />
+					<releases>
+						<release id="Decca|22461" />
+						<release id="Decca|22461" idX="R*" />
+						<release id="Decca|22461" idX="R**" />
+					</releases>
+				</song>
+				<song mx="FO4502" compo="Wah! Wah! (Excursion à Hawaii)">
+					<credits>
+						<credit roll="v">Bobbejaan Schoepen</credit>
+					</credits>
+					<releases>
+						<release id="Decca|22461" />
+						<release id="Decca|22461" idX="R" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="4286" summary="1924-06-19|Paris|Charles Van Der Stichellen" pernet="(F) Paris: ca. June 19-21, 1924">
+			<dates ymd="?1924-06-19_21">
+				<date>
+					<year doubt="">1924</year>
+					<month>06</month>
+					<day>19</day>
+				</date>
+				<x>untill</x>
+				<date>
+					<year doubt="">1924</year>
+					<month>06</month>
+					<day>21</day>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>FR</country>
+					<city>Paris</city>
+				</location>
+			</locations>
+			<artists pernet="Same or similar.">
+				<artist instr="leader, C-melody-sax, baritone sax, violin" doubt="">Charles Van Der Stichellen</artist>
+				<artist instr="tp" doubt="">Francis Gaudet</artist>
+				<artist instr="tp" or="" doubt="">Jacques Reymond</artist>
+				<artist instr="tp" doubt="">Julien Porret</artist>
+				<artist instr="tb" alias="Aîné" doubt="">Marcel Lafarge</artist>
+				<artist instr="cl" doubt="">Eddie Grosso</artist>
+				<artist instr="ss, cl, vln" doubt="">André Saury</artist>
+				<artist instr="as" doubt="">Jules Viard</artist>
+				<artist instr="ts, vln" doubt="">Fred Hoffmann</artist>
+				<artist instr="p, arr" doubt="">Raoul Moretti</artist>
+				<x info="American" instr="bjo" doubt="">1</x>
+				<artist instr="b" doubt="">Maurice Dubois</artist>
+				<artist instr="dm" doubt="">Marius Brun</artist>
+				<x instr="v" doubt="">1</x>
+				<artist instr="bjo" doubt="">Henri Mateo</artist>
+			</artists>
+			<albums>
+				<album ref="Pathé and Salabert">STIKLEN'S ORCHESTRA - DIRECTION STIKLEN</album>
+			</albums>
+			<songs>
+				<song mx="7194" compo="Bambalina (Danse des Libellules)">
+					<credits />
+					<releases>
+						<release id="Pathé|6684" />
+						<release id="Salabert|23" />
+					</releases>
+				</song>
+				<song mx="7195" compo="Les Grains de Beauté">
+					<credits />
+					<releases>
+						<release id="Henry|H48" doubt="" />
+						<release id="Pathé|6677" />
+					</releases>
+				</song>
+				<song mx="7196" compo="Vas-y Léon! (Marche populaire des Jeux Olympiques)">
+					<credits />
+					<releases>
+						<release id="Pathé|6677" />
+					</releases>
+				</song>
+				<song mx="7197" compo="Out Bois de Boulogne Way">
+					<credits />
+					<releases>
+						<release id="Pathé|6681" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="4347" summary="1984-06-17|Antwerpen|Fred Van Hove" pernet="(B) Antwerpen: June 17, 1984 (&quot;King Kong&quot;) &amp;|(F) Butte aux Oies: July 18, 1984">
+			<dates ymd="1984-06-17+1984-07-18">
+				<date>
+					<year>1984</year>
+					<month>06</month>
+					<day>17</day>
+				</date>
+				<x />
+				<date>
+					<year>1984</year>
+					<month>07</month>
+					<day>18</day>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>BE</country>
+					<city>Antwerpen</city>
+					<venue>King Kong</venue>
+				</location>
+				<location>
+					<country>FR</country>
+					<city>Butte aux Oies</city>
+				</location>
+			</locations>
+			<artists pernet="Fred Van Hove(p, comp), Arthur Van Der Hoeft(alto-horn, tp), Leo Verheyen, Wim Becu(tb), Hubert Sleymer(euph, tb), Jozef Matthessen(tu).">
+				<artist instr="p, comp">Fred Van Hove</artist>
+				<artist instr="alto-horn, tp">Arthur Van Der Hoeft</artist>
+				<artist>Leo Verheyen</artist>
+				<artist instr="tb">Wim Becu</artist>
+				<artist instr="euph, tb">Hubert Sleymer</artist>
+				<artist instr="tu">Jozef Matthessen</artist>
+			</artists>
+			<albums>
+				<album>"KKWTT" - FRED VAN HOVE</album>
+			</albums>
+			<songs>
+				<song compo="A1 à 4">
+					<credits />
+					<releases>
+						<release id="Nato|NATO355" />
+					</releases>
+				</song>
+				<song compo="A5 à 8">
+					<credits />
+					<releases>
+						<release id="Nato|NATO355" />
+					</releases>
+				</song>
+				<song compo="2ème Partie: B">
+					<credits />
+					<releases>
+						<release id="Nato|NATO355" />
+					</releases>
+				</song>
+				<song compo="3ème Partie C">
+					<credits />
+					<releases>
+						<release id="Nato|NATO355" />
+					</releases>
+				</song>
+				<song compo="C1 à 3">
+					<credits />
+					<releases>
+						<release id="Nato|NATO355" />
+					</releases>
+				</song>
+				<song compo="C4">
+					<credits />
+					<releases>
+						<release id="Nato|NATO355" />
+					</releases>
+				</song>
+				<song compo="C5 : Marche finale">
+					<credits />
+					<releases>
+						<release id="Nato|NATO355" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="4527" summary="1981-05-01|Breda|Koen De Cauter" pernet="(H) Breda: May 1981|(Live Jazz Festival)">
+			<dates ymd="1981-05-01">
+				<date>
+					<year>1981</year>
+					<month>05</month>
+					<day>01</day>
+				</date>
+			</dates>
+			<locations extra="Live Jazz Festival">
+				<location>
+					<country>NL</country>
+					<city>Breda</city>
+				</location>
+			</locations>
+			<artists pernet="Same personnel.">
+				<artist instr="cl, ts, g, v">Koen De Cauter</artist>
+				<artist>Fapy Lafertin</artist>
+				<artist instr="g" alias="Vivi">Pierre Limberger</artist>
+				<artist instr="b">Michel Verstraeten</artist>
+			</artists>
+			<albums>
+				<album>"11th TRADITIONAL JAZZ FESTIVAL BREDA 1981" - WASO</album>
+			</albums>
+			<songs note="Note: Other tracks from Jazz Crooner and Jazz Macon Club are by different artists.">
+				<song compo="Fleur de Lavende" sic="16">
+					<credits />
+					<releases>
+						<release id="Jazz Crooner|Vol15" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="4540" summary="1967-06-16|Antwerpen|Ben Webster" pernet="(B) Antwerpen: June 16, 1967|(Live &quot;Café Samson&quot;)">
+			<dates ymd="1967-06-16">
+				<date>
+					<year>1967</year>
+					<month>06</month>
+					<day>16</day>
+				</date>
+			</dates>
+			<locations extra="Live">
+				<location>
+					<country>BE</country>
+					<city>Antwerpen</city>
+					<venue>Café Samson</venue>
+				</location>
+			</locations>
+			<artists pernet="Benjamin Francis &quot;Ben&quot; Webster(ts), Buck Clayton(tp), Camille de Ceuninck(p), Tony Vaes(b), Charlie Pauwels(dm).">
+				<artist instr="ts">Ben Webster</artist>
+				<artist instr="tp">Buck Clayton</artist>
+				<artist instr="p">Camiel De Ceuninck</artist>
+				<artist instr="b">Tony Vaes</artist>
+				<artist instr="dm">Charlie Pauwels</artist>
+			</artists>
+			<albums>
+				<album>"BEN/BUCK" - BEN WEBSTER &amp; BUCK CLAYTON</album>
+			</albums>
+			<songs>
+				<song compo="C-Jam Blues">
+					<credits />
+					<releases>
+						<release id="Storyville|STCD8245" />
+					</releases>
+				</song>
+				<song compo="All Of Me">
+					<credits />
+					<releases>
+						<release id="Storyville|STCD8245" />
+					</releases>
+				</song>
+				<song compo="My Romance">
+					<credits />
+					<releases>
+						<release id="Storyville|STCD8245" />
+					</releases>
+				</song>
+				<song compo="Our Love Is Here To Stay">
+					<credits />
+					<releases>
+						<release id="Storyville|STCD8245" />
+					</releases>
+				</song>
+				<song compo="Avalon">
+					<credits />
+					<releases>
+						<release id="Storyville|STCD8245" />
+					</releases>
+				</song>
+				<song compo="Sweet Georgia Brown">
+					<credits />
+					<releases>
+						<release id="Storyville|STCD8245" />
+					</releases>
+				</song>
+				<song compo="Chelsea Bridge">
+					<credits />
+					<releases>
+						<release id="Storyville|STCD8245" />
+					</releases>
+				</song>
+				<song compo="Danny Boy">
+					<credits />
+					<releases>
+						<release id="Storyville|STCD8245" />
+					</releases>
+				</song>
+				<song compo="How High The Moon">
+					<credits />
+					<releases>
+						<release id="Storyville|STCD8245" />
+					</releases>
+				</song>
+				<song compo="I Can't Get Started">
+					<credits />
+					<releases>
+						<release id="Storyville|STCD8245" />
+					</releases>
+				</song>
+				<song compo="How Long Has This Been Going On">
+					<credits />
+					<releases>
+						<release id="Storyville|STCD8245" />
+					</releases>
+				</song>
+				<song compo="B-Flat Blues">
+					<credits />
+					<releases>
+						<release id="Storyville|STCD8245" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="4559" summary="1972-08-16|Schelle|André Waignein" pernet="(B) Schelle: August 16-17, 1972|(Reward Studio)">
+			<dates ymd="1972-08-16_17">
+				<date>
+					<year>1972</year>
+					<month>08</month>
+					<day>16</day>
+				</date>
+				<x>untill</x>
+				<date>
+					<year>1972</year>
+					<month>08</month>
+					<day>17</day>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>BE</country>
+					<city>Schelle</city>
+					<venue>Reward Studio</venue>
+				</location>
+			</locations>
+			<artists pernet="André Waignein(ldr, cond),  Achille Host, Christian Chuffart, Jean-Marie Degouys, Charles Planc, Pierre Creneau(tp), François Bury, Christian Fleuré, Jean Debaisieux(tb), Jean-Pierre Jorion(btb), Raymond Delcroix, Denis Cardon(as), José Plume, Germain Delattre(ts), Willy Pettiaux(bs), Robert Dewasme(p), Jean-Claude Dherte(g), Cyr Detournay(b), Walter Demuynck(dm).">
+				<artist instr="ldr, cond">André Waignein</artist>
+				<artist>Achille Host</artist>
+				<artist>Christian Chuffart</artist>
+				<artist>Jean-Marie Degouys</artist>
+				<artist>Charles Planc</artist>
+				<artist instr="tp">Pierre Creneau</artist>
+				<artist>François Bury</artist>
+				<artist>Christian Fleuré</artist>
+				<artist instr="tb">Jean Debaisieux</artist>
+				<artist instr="btb">Jean-Pierre Jorion</artist>
+				<artist>Raymond Delcroix</artist>
+				<artist instr="as">Denis Cardon</artist>
+				<artist>José Plume</artist>
+				<artist instr="ts">Germain Delattre</artist>
+				<artist instr="bs">Willy Pettiaux</artist>
+				<artist instr="p">Robert Dewasme</artist>
+				<artist instr="g">Jean-Claude Dherte</artist>
+				<artist instr="b">Cyr Detournay</artist>
+				<artist instr="dm">Walter Demuynck</artist>
+			</artists>
+			<albums>
+				<album>"OPUS FOR BAND" - THE WEST MUSIC CLUB ORCHESTRA Conducted by André Waignein</album>
+			</albums>
+			<songs>
+				<song compo="Riff Sauce">
+					<credits />
+					<releases>
+						<release id="Le Phare|LPH3027" />
+					</releases>
+				</song>
+				<song compo="Fly Me To The Moon">
+					<credits />
+					<releases>
+						<release id="Le Phare|LPH3027" />
+					</releases>
+				</song>
+				<song compo="Destination Love">
+					<credits />
+					<releases>
+						<release id="Le Phare|LPH3027" />
+					</releases>
+				</song>
+				<song compo="Autumn Leaves">
+					<credits />
+					<releases>
+						<release id="Le Phare|LPH3027" />
+					</releases>
+				</song>
+				<song compo="The Preacher">
+					<credits />
+					<releases>
+						<release id="Le Phare|LPH3027" />
+					</releases>
+				</song>
+				<song compo="At The Bascule">
+					<credits />
+					<releases>
+						<release id="Le Phare|LPH3027" />
+					</releases>
+				</song>
+				<song compo="Scat">
+					<credits />
+					<releases>
+						<release id="Le Phare|LPH3027" />
+					</releases>
+				</song>
+				<song compo="Latinos Beat">
+					<credits />
+					<releases>
+						<release id="Le Phare|LPH3027" />
+					</releases>
+				</song>
+				<song compo="Swing Low">
+					<credits />
+					<releases>
+						<release id="Le Phare|LPH3027" />
+					</releases>
+				</song>
+				<song compo="Jordu">
+					<credits />
+					<releases>
+						<release id="Le Phare|LPH3027" />
+					</releases>
+				</song>
+				<song compo="Campêche">
+					<credits />
+					<releases>
+						<release id="Le Phare|LPH3027" />
+					</releases>
+				</song>
+				<song compo="Opus For Band">
+					<credits />
+					<releases>
+						<release id="Le Phare|LPH3027" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="4577" summary="1941-11-|Berlin|Kurt Widmann" pernet="(G) Berlin: November 1941">
+			<dates ymd="1941-11-00">
+				<date>
+					<year>1941</year>
+					<month>11</month>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>DE</country>
+					<city>Berlin</city>
+				</location>
+			</locations>
+			<artists pernet="Kurt Widmann(ldr, tb), Louis Dehaes, Eberhardt Schmidt-Schulz, Paul Rutz(tp), Jos Breyre, Hans Kummerth(tb), Lou Logist, Heinz Berger(as, cl), Benny De Weile(ts, cl), Jean Robert(ts, cl, tp?), Kurt Dörfflinger(sax), Raymond Colignon(p), Meg Tevelian(g), August König(b), Harry van Dyk(dm), Erich Bergau(v).">
+				<artist instr="ldr, tb">Kurt Widmann</artist>
+				<artist>Louis Dehaes</artist>
+				<artist>Eberhard Schmidt-Schulz</artist>
+				<artist instr="tp">Paul Rutz</artist>
+				<artist>Jos Breyre</artist>
+				<artist instr="tb">Hans Kummert</artist>
+				<artist>Lou Logist</artist>
+				<artist instr="as, cl">Heinz Berger</artist>
+				<artist instr="ts, cl">Benny de Weille</artist>
+				<artist instr="ts, cl, tp?">Jean Robert</artist>
+				<artist instr="sax">Kurt Dörfflinger</artist>
+				<artist instr="p">Raymond Colignon</artist>
+				<artist instr="g">Meg Tevelian</artist>
+				<artist instr="b">August König</artist>
+				<artist info="Dyk" instr="dm">Harry van Dijk</artist>
+				<artist instr="v">Erich Bergau</artist>
+			</artists>
+			<albums>
+				<album>KURT WIDMANN mit seinem Tanz Orchester</album>
+				<album ref="Belgian Imperial">KURT WIDMANN mit seinem Tanz-Orchester</album>
+			</albums>
+			<songs>
+				<song mx="KC28853" compo="Es sind viele Jahre vergangen">
+					<credits />
+					<releases>
+						<release id="Imperial|17464" />
+						<release id="Kristall|3829" />
+					</releases>
+				</song>
+				<song mx="KC28854" compo="Junger Mann aus guten Haus">
+					<credits>
+						<credit roll="v">Erich Bergau</credit>
+					</credits>
+					<releases>
+						<release id="Imperial|17464" />
+						<release id="Kristall|3829" />
+					</releases>
+				</song>
+				<song mx="KC28855" compo="Schönes Wetter">
+					<credits />
+					<releases>
+						<release id="Imperial|17401" />
+						<release id="Imperial|30691" />
+						<release id="Kristall|3830" />
+						<release id="Pumpkin Pie Records|CD00399" />
+					</releases>
+				</song>
+				<song mx="KC28856" compo="Heisse Tage">
+					<credits />
+					<releases>
+						<release id="Bob's Music|BS100" />
+						<release id="Bob's Music|BS23" />
+						<release id="Bob's Music|CD1" />
+						<release id="Hörzu Exclusiv|1C13432453" />
+						<release id="Hörzu Exclusiv|1C43432455" />
+						<release id="Imperial|17401" />
+						<release id="Imperial|30691" />
+						<release id="Kristall|3830" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="4653" summary="1942-09-01|Frankfurt|John Witjes" pernet="(G) Frankfurt: September 1942|(Gies &amp; Messerklinger Studio)">
+			<dates ymd="1942-09-01">
+				<date>
+					<year>1942</year>
+					<month>09</month>
+					<day>01</day>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>DE</country>
+					<city>Frankfurt</city>
+					<venue>Gies &amp; Messerklinger Studio</venue>
+				</location>
+			</locations>
+			<artists pernet="John Witjes(ldr, ts) with unidentified personnel consisting of 2(tp), (tb), 3(sax), (p), (g), (b), (dm) + members of the German Hot Club Combo. No exact details.">
+				<artist instr="ldr, ts">John Witjes</artist>
+				<x instr="tp">2</x>
+				<x instr="tb">1</x>
+				<x instr="sax">3</x>
+				<x instr="p">1</x>
+				<x instr="g">1</x>
+				<x instr="b">1</x>
+				<x instr="dm">1</x>
+				<artist info="members of the German Hot Club Combo" instr="combo">x</artist>
+			</artists>
+			<albums>
+				<album>JOHN WITJES AND HIS ORCHESTRA</album>
+			</albums>
+			<songs>
+				<song compo="Honeysuckle Rose">
+					<credits />
+					<releases>
+						<release id="||unissued" doubt="" />
+					</releases>
+				</song>
+				<song compo="Undecided">
+					<credits />
+					<releases>
+						<release id="|" />
+					</releases>
+				</song>
+				<song compo="Margie">
+					<credits />
+					<releases>
+						<release id="|" />
+					</releases>
+				</song>
+				<song compo="I've Found A New Baby">
+					<credits />
+					<releases>
+						<release id="|" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="4683" summary="1997--|Gent|Aka Moon" pernet="(B) Gent: no details">
+			<dates ymd="?1997-00-00">
+				<date>
+					<year doubt="">1997</year>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>BE</country>
+					<city>Gent</city>
+					<venue>Vooruit</venue>
+				</location>
+			</locations>
+			<artists pernet="Fabrizio Cassol(as), Michel Hatzigeorgiou(el b, v), Stéphane Galland(dm). Guest drummers from Senegal: Doudou N'Diaye Rose, El Hadji N'Diaye Rose, Lamile N'Diaye Rose, Mame Youga N'Diaye Rose, Aly N'Diaye Rose, Tapha N'Diaye Rose, Mor Koumba N'Diaye Rose, Adama N'Diaye Rose, Abdoulaye Mbengue.">
+				<band>Aka Moon</band>
+				<artist instr="as">Fabrizio Cassol</artist>
+				<artist instr="el b, v">Michel Hatzigeorgiou</artist>
+				<artist instr="dm">Stéphane Galland</artist>
+				<artist>Doudou N'Diaye Rose</artist>
+				<artist>El Hadji N'Diaye Rose</artist>
+				<artist>Lamile N'Diaye Rose</artist>
+				<artist>Mame Youga N'Diaye Rose</artist>
+				<artist>Aly N'Diaye Rose</artist>
+				<artist>Tapha N'Diaye Rose</artist>
+				<artist>Mor Koumba N'Diaye Rose</artist>
+				<artist>Adama N'Diaye Rose</artist>
+				<artist>Abdoulaye Mbengue</artist>
+			</artists>
+			<albums>
+				<album>"LIVE AT VOORUIT" - AKA MOON</album>
+			</albums>
+			<songs>
+				<song compo="Sa" take="08:10">
+					<credits />
+					<releases>
+						<release id="Carbon 7|C7028" />
+					</releases>
+				</song>
+				<song compo="Yaral Sadom" take="06:50">
+					<credits />
+					<releases>
+						<release id="Carbon 7|C7028" />
+					</releases>
+				</song>
+				<song compo="Téélen - Part 1" take="02:15">
+					<credits />
+					<releases>
+						<release id="Carbon 7|C7028" />
+					</releases>
+				</song>
+				<song compo="Téélen - Part 2 (The River Blue)" take="07:35">
+					<credits />
+					<releases>
+						<release id="Carbon 7|C7028" />
+					</releases>
+				</song>
+				<song compo="Jubo - Part 1" take="01:10">
+					<credits />
+					<releases>
+						<release id="Carbon 7|C7028" />
+					</releases>
+				</song>
+				<song compo="Jubo - Part 2" take="04:55">
+					<credits />
+					<releases>
+						<release id="Carbon 7|C7028" />
+					</releases>
+				</song>
+				<song compo="Jubo - Part 3" take="09:21">
+					<credits />
+					<releases>
+						<release id="Carbon 7|C7028" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="4701" summary="1998--|New York|Philip Catherine" pernet="(USA) New York: 1998">
+			<dates ymd="1998-00-00">
+				<date>
+					<year>1998</year>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>US</country>
+					<city>New York</city>
+				</location>
+			</locations>
+			<artists pernet="Philip Catherine(g), Jim Beard(keyb), Alfonso Johnson(elb), Rodney Holmes(dm).">
+				<artist instr="g">Philip Catherine</artist>
+				<artist instr="keyb">Jim Beard</artist>
+				<artist instr="elb">Alfonso Johnson</artist>
+				<artist instr="dm">Rodney Holmes</artist>
+			</artists>
+			<albums>
+				<album>"GUITAR GROOVE" - PHILIP CATHERINE</album>
+			</albums>
+			<songs>
+				<song>
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+				<song compo="Merci Afrique" take="4:47">
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+				<song compo="Sunset Shuffle" take="4:08">
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+				<song compo="Guitar Groove" take="6:22">
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+				<song compo="Good Morning Bill" take="5:07">
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+				<song compo="Hello George" take="5:10">
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+				<song compo="To My Sister" take="6:18">
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+				<song compo="Chinese Lamp" take="5:14">
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+				<song>
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+				<song compo="Stardust" take="3:00">
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+				<song compo="Here And Now" take="3:00">
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+				<song compo="Nuances" take="3:33">
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+				<song compo="Simply" take="2:15">
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+				<song compo="For Wayne And Joe" take="3:45">
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+				<song compo="Blue Bells" take="5:28">
+					<credits />
+					<releases>
+						<release id="Dreyfus Jazz|FDM365992" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="4742" summary="1997-08-15|Antwerpen|Chris Joris" pernet="(B) Antwerpen: August 15, 1997">
+			<dates ymd="1997-08-15">
+				<date>
+					<year>1997</year>
+					<month>08</month>
+					<day>15</day>
+				</date>
+			</dates>
+			<locations extra="Live &quot;Jazz Middelheim Festival&quot;">
+				<location>
+					<country>BE</country>
+					<city>Antwerpen</city>
+				</location>
+			</locations>
+			<artists pernet="Chris Joris(ldr, cymbals &amp; Djembé, Likembé, Berimbau, fl, perc), Sam Versweyveld(tp, flh), Jeroen Van Herzeele(ts, ss), Ernst Vranckx(p), Chris Mentens(b): guests: Ben Ngabo(v, n'gmoa's), N'Fally Kouyaté(Kora).">
+				<artist instr="ldr, cymbals &amp; Djembé, Likembé, Berimbau, fl, perc">Chris Joris</artist>
+				<artist instr="tp, flh">Sam Versweyveld</artist>
+				<artist instr="ts, ss">Jeroen Van Herzeele</artist>
+				<artist instr="p">Ernst Vranckx</artist>
+				<artist instr="b">Chris Mentens</artist>
+				<artist instr="v, n'gmoa's">Ben Ngabo</artist>
+				<artist instr="Kora">N'Fally Kouyaté</artist>
+			</artists>
+			<albums>
+				<album>"LIVE" AT THE JAZZ-MIDDELHEIM FESTIVAL &amp; STOCKHOLM '97" - THE CHRIS JORIS EXPERIENCE</album>
+			</albums>
+			<songs>
+				<song compo="Bihogo">
+					<credits />
+					<releases>
+						<release id="W.E.R.F.|WERF012" />
+					</releases>
+				</song>
+				<song compo="The Miner's Tale">
+					<credits />
+					<releases>
+						<release id="W.E.R.F.|WERF012" />
+					</releases>
+				</song>
+				<song compo="Mothe's Promises">
+					<credits />
+					<releases>
+						<release id="W.E.R.F.|WERF012" />
+					</releases>
+				</song>
+				<song compo="Folksong No.2">
+					<credits />
+					<releases>
+						<release id="W.E.R.F.|WERF012" />
+					</releases>
+				</song>
+				<song compo="Lukamba">
+					<credits />
+					<releases>
+						<release id="W.E.R.F.|WERF012" />
+					</releases>
+				</song>
+			</songs>
+			<notes />
+		</session>
+        <session id="4773" summary="--|Antwerpen|Ben Sluijs" pernet="(B) Antwerpen: no details">
+			<dates ymd="">
+				<date>
+					<x></x>
+				</date>
+			</dates>
+			<locations>
+				<location>
+					<country>BE</country>
+					<city>Antwerpen</city>
+				</location>
+			</locations>
+			<artists pernet="Ben Sluis(ldr, as, fl-1), Erik Vermeulen(p), Piet Verbist(b), Eric Thielemans(dm).">
+				<artist instr="ldr, as, fl-1">Ben Sluijs</artist>
+				<artist instr="p">Erik Vermeulen</artist>
+				<artist instr="b">Piet Verbist</artist>
+				<artist instr="dm">Eric Thielemans</artist>
+			</artists>
+			<albums>
+				<album>"FOOD FOR FREE" - BEN SLUIJS QUARTET</album>
+			</albums>
+			<songs>
+				<song compo="Another Romance">
+					<credits />
+					<releases>
+						<release id="On Purpose Records|OnPurpose001" />
+					</releases>
+				</song>
+				<song compo="Now You're Talkin'!">
+					<credits />
+					<releases>
+						<release id="On Purpose Records|OnPurpose001" />
+					</releases>
+				</song>
+				<song compo="Don't Ask">
+					<credits />
+					<releases>
+						<release id="On Purpose Records|OnPurpose001" />
+					</releases>
+				</song>
+				<song compo="Intro To Ballad For Johnny">
+					<credits />
+					<releases>
+						<release id="On Purpose Records|OnPurpose001" />
+					</releases>
+				</song>
+				<song compo="Ballad For Johnny">
+					<credits />
+					<releases>
+						<release id="On Purpose Records|OnPurpose001" />
+					</releases>
+				</song>
+				<song compo="Daydreaming" ref="1">
+					<releases>
+						<release id="On Purpose Records|OnPurpose001" />
+					</releases>
+				</song>
+				<song compo="Dufferin'">
+					<credits />
+					<releases>
+						<release id="On Purpose Records|OnPurpose001" />
+					</releases>
+				</song>
+				<song compo="Homeless">
+					<credits />
+					<releases>
+						<release id="On Purpose Records|OnPurpose001" />
+					</releases>
+				</song>
+			</songs>
+			<notes>
+				<note>Note: according to the promotional literature accompanying this CD, drummer should be Dré Pallemaerts.</note>
+			</notes>
+		</session>
+	</sessions>
+</belgianjazzdiscography>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='belgianjazzdiscography-artists.xsl'?>
+<belgianjazzdiscography>
+	<meta>
+		<countries>
+			<country ISO="US" pernet_abr="(A)" pernet_adj="American" pernet_other="">United States of America</country>
+			<country ISO="AR" pernet_abr="(Arg)" pernet_adj="Argentinian" pernet_other="(Ar)">Argentina</country>
+			<country ISO="AT" pernet_abr="(Au)" pernet_adj="Austrian" pernet_other="">Austria</country>
+			<country ISO="AU" pernet_abr="(Aus)" pernet_adj="Australian" pernet_other="">Australia</country>
+			<country ISO="BE" pernet_abr="(B)" pernet_adj="Belgian" pernet_other="">Belgium</country>
+			<country ISO="BR" pernet_abr="(Br)" pernet_adj="Brazilian" pernet_other="(Bra)/(Braz)">Brazil</country>
+			<country ISO="CA" pernet_abr="(Can)" pernet_adj="Canadian" pernet_other="">Canada</country>
+			<country ISO="CG" pernet_abr="(Cgo)" pernet_adj="Congolese" pernet_other="(Congo)">Congo</country>
+			<country ISO="CS" pernet_abr="(Cz)" pernet_adj="Czech" pernet_other="(C)">Czechoslovakia</country>
+			<country ISO="DK" pernet_abr="(Dk)" pernet_adj="Danish" pernet_other="">Denmark</country>
+			<country ISO="GB" pernet_abr="(E)" pernet_adj="British" pernet_other="(UK)">United Kingdom of Great Britain and Northern Ireland</country>
+			<country ISO="FR" pernet_abr="(F)" pernet_adj="French" pernet_other="">France</country>
+			<country ISO="FI" pernet_abr="(Fin)" pernet_adj="Finnish" pernet_other="">Finland</country>
+			<country ISO="DE" pernet_abr="(G)" pernet_adj="German" pernet_other="">Germany</country>
+			<country ISO="NL" pernet_abr="(H)" pernet_adj="Dutch" pernet_other="">Netherlands</country>
+			<country ISO="HU" pernet_abr="(Hung)" pernet_adj="Hungarian" pernet_other="">Hungary</country>
+			<country ISO="IN" pernet_abr="(Ind)" pernet_adj="Indian" pernet_other="">India</country>
+			<country ISO="IT" pernet_abr="(It)" pernet_adj="Italian" pernet_other="">Italy</country>
+			<country ISO="JP" pernet_abr="(J)" pernet_adj="Japanese" pernet_other="">Japan</country>
+			<country ISO="MX" pernet_abr="(Mex)" pernet_adj="Mexican" pernet_other="">Mexico</country>
+			<country ISO="MA" pernet_abr="(Mor)" pernet_adj="Moroccan" pernet_other="(Morocco)">Morocco</country>
+			<country ISO="NO" pernet_abr="(Nw)" pernet_adj="Norwegian" pernet_other="">Norway</country>
+			<country ISO="NZ" pernet_abr="(NZ)" pernet_other="">New Zealand</country>
+			<country ISO="PL" pernet_abr="(Pol)" pernet_adj="Polish" pernet_other="">Poland</country>
+			<country ISO="PT" pernet_abr="(Port)" pernet_adj="Portugese" pernet_other="">Portugal</country>
+			<country ISO="RO" pernet_abr="(Rum)" pernet_adj="Romanian" pernet_other="(Romania)">Romania</country>
+			<country ISO="RU" pernet_abr="(Rus)" pernet_adj="Russian" pernet_other="(Russia)">Russian Federation</country>
+			<country ISO="ES" pernet_abr="(Sp)" pernet_adj="Spanish" pernet_other="">Spain</country>
+			<country ISO="SE" pernet_abr="(Sw)" pernet_adj="Swedish" pernet_other="">Sweden</country>
+			<country ISO="CH" pernet_abr="(Sz)" pernet_adj="Swiss" pernet_other="(Zs)">Switzerland</country>
+			<country ISO="US" pernet_abr="(USA)" pernet_adj="American" pernet_other="(US)">United States of America</country>
+			<country ISO="YU" pernet_abr="(Yug)" pernet_adj="Yugoslavian" pernet_other="(Yu)">Yugoslavia</country>
+			<country ISO="MY" pernet_abr="(Malaysia)" pernet_adj="Malaysian" pernet_other="">Malaysia</country>
+			<country ISO="MC" pernet_abr="(Monaco)" pernet_other="">Monaco</country>
+			<country ISO="LU" pernet_abr="(Lux)" pernet_other="">Luxembourg</country>
+			<country ISO="EU" pernet_abr="(Europe)" pernet_other="">Europe</country>
+			<country ISO="DK/NO/SE" pernet_abr="(Scan)" pernet_other="">Scandinavia</country>
+			<country ISO="SU" pernet_abr="(USSR)" pernet_other="">Soviet Union (USSR)</country>
+			<country ISO="BE/NL/LU" pernet_abr="(Benelux)" pernet_other="">Benelux</country>
+			<country ISO="Worldwide" pernet_abr="(Int'l)" pernet_other="">Worldwide</country>
+		</countries>
+    </meta>
+</belgianjazzdiscography>

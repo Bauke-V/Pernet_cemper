@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="belgianjazzdiscography-artists.xsl"?>
+<belgianjazzdiscography>
+    <meta>
+    <labels>
+			<label></label>
+			<label>101 South Records</label>
+			<label>4 Elements</label>
+			<label>4AM</label>
+			<label markets="(F)" abr="52e">52e Rue Est</label>
+			<label>A&amp;M</label>
+			<label>A-Records</label>
+			<label>A.S. Cap</label>
+			<label>AA Music</label>
+			<label>AB Records</label>
+			<label>ABA</label>
+			<label>ABC Records</label>
+			<label>ABC-Paramount</label>
+			<label>ACE Records</label>
+			<label>ACT</label>
+			<label>ADM Records F.D.</label>
+			<label>ADS</label>
+			<label>AFN Radio Transcription</label>
+			<label>AFRS One Night Stand</label>
+			<label>AJC</label>
+			<label>AJE Productions</label>
+			<label>AL Productions</label>
+			<label>AP</label>
+			<label>ATM Records</label>
+			<label>Aaltrack Records</label>
+			<label>Accord</label>
+			<label markets="(E)" abr="AoC">Ace of Clubs</label>
+			<label>Acetate</label>
+			<label>Acetate transcription</label>
+			<label>Aco</label>
+			<label>Acoustic Music Records</label>
+			<label>Actual</label>
+			<label>Adda</label>
+			<label>Adler</label>
+			<label>Admission To Music</label>
+			<label>Adès</label>
+			<label>Affinity</label>
+			<label>Afkikker</label>
+			<label>Agram</label>
+			<label>Ah Un</label>
+			<label>Aircheck Acetate</label>
+			<label>Aktiv</label>
+			<label>Alfa</label>
+			<label>All Life</label>
+			<label>Alouette</label>
+			<label>Alpha Brussels</label>
+			<label>Alpha Records</label>
+			<label>Altsax</label>
+			<label>Amadeo</label>
+			<label>Amalthea</label>
+			<label>Amanite</label>
+			<label>America Records</label>
+			<label markets="(G)" abr="Am">Amiga</label>
+			<label>Ampex</label>
+			<label>Amplitude</label>
+			<label>Anderlecht Jazz Club</label>
+			<label>Angel Records</label>
+			<label>Animated Cartoons</label>
+			<label>Animatic</label>
+			<label>Anker Club Gent</label>
+			<label>Anonymous</label>
+			<label>Antilles</label>
+			<label>Antler</label>
+			<label>Apache</label>
+			<label>Arcade</label>
+			<label>Archiphon</label>
+			<label>Argo</label>
+			<label>Ariola</label>
+			<label>Ariola Express</label>
+			<label>Arion</label>
+			<label>Arista</label>
+			<label>Arminius</label>
+			<label>Arpèges</label>
+			<label>Ars Futura</label>
+			<label>Ars Musica Pro Humanitate</label>
+			<label>Art Public</label>
+			<label>Art Zoyd</label>
+			<label>Art' Records</label>
+			<label>Artcraft Music Roll</label>
+			<label>Artibano</label>
+			<label markets="(G)" abr="Art">Artiphon</label>
+			<label>Artone</label>
+			<label>Assekrem</label>
+			<label>Astra</label>
+			<label>Astraschall</label>
+			<label>Atco</label>
+			<label>Atem</label>
+			<label markets="(USA/F)" abr="At">Atlantic</label>
+			<label>Atoma</label>
+			<label>Audio Archive</label>
+			<label>Audiophile</label>
+			<label>Aurophon</label>
+			<label>Ausfahrt</label>
+			<label markets="(G)" abr="Aus">Austroton</label>
+			<label>Avanti</label>
+			<label>Avid</label>
+			<label>B. Tone</label>
+			<label>B.Sharp</label>
+			<label>BAQ</label>
+			<label>BASF</label>
+			<label>BBC</label>
+			<label>BBCB</label>
+			<label>BDN</label>
+			<label>BMG</label>
+			<label>BMG Classics</label>
+			<label>BPA Records</label>
+			<label>BRT</label>
+			<label>BRTN-R3</label>
+			<label>BRÖ</label>
+			<label>BV Haast Records</label>
+			<label>BYG Records</label>
+			<label>Bab's Concert</label>
+			<label markets="(G)" abr="Bacc">Baccarola</label>
+			<label>Bainbridge</label>
+			<label>Bally</label>
+			<label>Banana Peel</label>
+			<label markets="(F)" abr="Bar">Barclay</label>
+			<label>Baystate</label>
+			<label>Bedlam</label>
+			<label>Beerendonk</label>
+			<label>Beka</label>
+			<label>Bel Air</label>
+			<label>Belgian Artistic Promotion</label>
+			<label>Belgica</label>
+			<label>Bell</label>
+			<label>Bella</label>
+			<label>Bellaphon</label>
+			<label markets="(Sp)" abr="Bel">Belter</label>
+			<label>Beltona</label>
+			<label>Bentler</label>
+			<label>Berklee</label>
+			<label>Berliner</label>
+			<label>Bertelsmann</label>
+			<label>Best Seller</label>
+			<label>Big Bang</label>
+			<label>Biograph</label>
+			<label>Birdology</label>
+			<label>Black And Blue</label>
+			<label>Black Eagle</label>
+			<label>Black Jack</label>
+			<label>Black Lion</label>
+			<label>Black Panther</label>
+			<label>Blank Label</label>
+			<label>Blu Jazz</label>
+			<label>Blue Flame</label>
+			<label>Blue Label</label>
+			<label>Blue Moon</label>
+			<label markets="(USA)" abr="BN">Blue Note</label>
+			<label>Blue Song</label>
+			<label markets="(F)" abr="BS">Blue Star</label>
+			<label>Blue Sting</label>
+			<label>Bluebird</label>
+			<label markets="(G)" pernet_remark="BobSette = Bob's Cassette? Cassette series?" abr="Bob">Bob's Music</label>
+			<label>Bob's Music </label>
+			<label>Boem Records</label>
+			<label>Bosworth</label>
+			<label>Boulevard</label>
+			<label>Brabant</label>
+			<label>Bravo</label>
+			<label>Breakthru</label>
+			<label markets="(B)" abr="Bcst">Broadcast</label>
+			<label markets="(It)" abr="Bway">Broadway</label>
+			<label>Bronze</label>
+			<label markets="(G/Cz)" abr="Br">Brunswick</label>
+			<label>Buda</label>
+			<label>Bulldog</label>
+			<label>Buy My Record</label>
+			<label>C5 Records</label>
+			<label>CA</label>
+			<label>CB Records</label>
+			<label markets="(H)" pernet_remark="(mostly H)" abr="CBS">CBS</label>
+			<label>CBS/Sony</label>
+			<label>CC Production</label>
+			<label>CDW</label>
+			<label>CELP</label>
+			<label>CEMA</label>
+			<label>CERATON</label>
+			<label>CFE</label>
+			<label markets="(It)" abr="CGD">CGD</label>
+			<label>CH-Records</label>
+			<label>CID</label>
+			<label>CL Records</label>
+			<label>CMP Records</label>
+			<label>CNR</label>
+			<label>CNR Records</label>
+			<label>CTI</label>
+			<label>CTI Records</label>
+			<label>Calig</label>
+			<label>Calliope</label>
+			<label>Campi</label>
+			<label>Candid</label>
+			<label>Canyon</label>
+			<label markets="(USA/Int'l)" abr="Cap">Capitol</label>
+			<label>Capri</label>
+			<label>Caprice</label>
+			<label>Capriola</label>
+			<label>Carbon 7</label>
+			<label>Carmen</label>
+			<label>Carosello</label>
+			<label markets="(B)" abr="Car">Carrere</label>
+			<label>Carrere Music</label>
+			<label>Cas JO</label>
+			<label>Casino Sound Studio</label>
+			<label>Caspari</label>
+			<label>Cassedra</label>
+			<label>Cat</label>
+			<label>Cat Box</label>
+			<label>Celson</label>
+			<label>Center</label>
+			<label>Ceská televize</label>
+			<label>Cetra</label>
+			<label>Challenge Records</label>
+			<label markets="(F)" abr="Chans">Chansophone</label>
+			<label markets="(B)" abr="Ch">Chantal</label>
+			<label markets="(B)" abr="ChBijou">Chantal Bijou</label>
+			<label markets="(B)" abr="ChDL">Chantal De Luxe</label>
+			<label markets="(B)" abr="ChR">Chantal Radio</label>
+			<label markets="(B)" abr="ChS">Chantal à Saphir</label>
+			<label>Chappell</label>
+			<label>Chess</label>
+			<label>Chiaroscuro</label>
+			<label>Choice</label>
+			<label>Choudens</label>
+			<label>Ci</label>
+			<label>Cinetone</label>
+			<label>Circle</label>
+			<label>Cirkel Production</label>
+			<label>Citizen</label>
+			<label>Clarion</label>
+			<label>Classic Jazz</label>
+			<label>Classics</label>
+			<label markets="(G)" abr="Cla">Clausophon</label>
+			<label>Cloud</label>
+			<label>Club Des Disquaires Français</label>
+			<label markets="(F)" abr="CND">Club National du Disque</label>
+			<label markets="(F)" abr="CAD">Club des Amis du Disque</label>
+			<label>Clymrecords</label>
+			<label>CoDa</label>
+			<label>Coliseum</label>
+			<label>Collectable</label>
+			<label>Colour Record</label>
+			<label>Colrich</label>
+			<label pernet_remark="300 (?)&#10;1000D (USA)&#10;4000 (E)&#10;7000-M (USA)&#10;8000, 9000 (E)&#10;14000 (E)&#10;34000F (?)&#10;C8000 (G)&#10;CB, DF, DB  pressed by SOBEDI (Belgium), (since 1930) using French catalogue numbers. Same label but origin (&quot;Made In&quot;) does not appear.&#10;CD, CQU, DQ (It)&#10;CS10 (E &amp;/or " abr="Co">Columbia</label>
+			<label>Columbia Special Products</label>
+			<label>Comet</label>
+			<label markets="(USA)" abr="Comm">Command</label>
+			<label>Compagnie Internationale Phonographique</label>
+			<label>Compaxident</label>
+			<label>Con Brio</label>
+			<label>Concert Record "Gramophone"</label>
+			<label>Concertone</label>
+			<label>Concord</label>
+			<label>Condor</label>
+			<label>Conifer</label>
+			<label>Contemporary</label>
+			<label>Continental</label>
+			<label>Contiphon</label>
+			<label>Contour</label>
+			<label markets="(Br)" abr="Cop">Copacabana</label>
+			<label>Coral</label>
+			<label>Cornet</label>
+			<label>Corona</label>
+			<label>Cotton City Band</label>
+			<label>Counterpoint</label>
+			<label>Coup Records</label>
+			<label>Coward Film</label>
+			<label>Crammed Disc</label>
+			<label>Cream</label>
+			<label>Crescendo</label>
+			<label>Criss Cross Jazz</label>
+			<label markets="(F)" abr="Cr">Cristal</label>
+			<label>Cross Over</label>
+			<label>Crossover</label>
+			<label>Crown</label>
+			<label>Crylor</label>
+			<label>Crystal</label>
+			<label>Cupol</label>
+			<label>Curcio</label>
+			<label>Cy Records</label>
+			<label>Cymekob</label>
+			<label>D.E.S.</label>
+			<label>DGY Records</label>
+			<label>DMP</label>
+			<label>DRG</label>
+			<label>DWO</label>
+			<label>Da Music</label>
+			<label>Dacapo</label>
+			<label>Daffodil</label>
+			<label>Dankers</label>
+			<label>Dawn</label>
+			<label>Days Rhythm Style</label>
+			<label>Debut</label>
+			<label pernet_remark="400 (It)&#10;500, 600, 700 (USA)&#10;3000 (USA)&#10;8000 (some prefixed F) (B)&#10;9000 (B)&#10;10.000 (B)&#10;15.000 (B 12&quot;)&#10;20.000, 21.000, 22.000 (B)&#10;23000 (USA)&#10;35.000 (B)&#10;41000 (no prefix) (H)&#10;60.000 (B)&#10;C16000 (H)&#10;D51000 (B)&#10;F3500, F3600 (E)&#10;F4000 (E)&#10;F5000 (E &amp; some B)&#10;F6" abr="De">Decca</label>
+			<label>Decelith</label>
+			<label>Decibel</label>
+			<label>Deja Vu</label>
+			<label>Delahay</label>
+			<label>Delta</label>
+			<label>Denon</label>
+			<label>Derby</label>
+			<label>Deutsche Schallplattenclub</label>
+			<label>Deutscher Musikrat</label>
+			<label>Diamond</label>
+			<label>Die Goldplatte</label>
+			<label>Digi Classics</label>
+			<label>Dino</label>
+			<label>Dire</label>
+			<label>Directional Sound</label>
+			<label markets="(Arg)" abr="DJ">Disc Jockey</label>
+			<label>Disc'Az</label>
+			<label>Discazur</label>
+			<label>Disco</label>
+			<label>Disco Club</label>
+			<label>Discobel</label>
+			<label>Discofila Records</label>
+			<label>Discolor</label>
+			<label markets="(G)" abr="Dph">Discophilia</label>
+			<label>Discophon</label>
+			<label>Discover</label>
+			<label>Discovery</label>
+			<label>Disky</label>
+			<label>Disque Paul Tassier</label>
+			<label markets="(F)" pernet_remark="Collection du Jazz Club Français (French but also pressed in Belgium)" abr="ABC">Disques ABC Paris</label>
+			<label>Disques Adès</label>
+			<label markets="(F)" abr="Fest">Disques Festival</label>
+			<label>Disques Swing</label>
+			<label>Doblon</label>
+			<label>Doctor Jazz</label>
+			<label>Dot Records</label>
+			<label>Dreyfus Jazz</label>
+			<label>Drive Archive</label>
+			<label>Druco</label>
+			<label>Drum</label>
+			<label>Ducale</label>
+			<label>Ducart</label>
+			<label>Duchesne</label>
+			<label markets="(F)" abr="Duc">Ducretet Thomson</label>
+			<label markets="(H)" abr="Du">Dureco</label>
+			<label>Durium</label>
+			<label>Dutreih</label>
+			<label>Duvel</label>
+			<label>Dwarf Records</label>
+			<label>Déesse</label>
+			<label>E.I.L.</label>
+			<label>EB</label>
+			<label>EBSB</label>
+			<label>EMD</label>
+			<label>EMI</label>
+			<label>EMI-Columbia</label>
+			<label>EON</label>
+			<label>EPM</label>
+			<label>EPM Musique</label>
+			<label>ERN</label>
+			<label>EVA</label>
+			<label>EastWest</label>
+			<label>Echo</label>
+			<label>Edigsa</label>
+			<label>Edison</label>
+			<label>Edison Bell</label>
+			<label markets="(E)" abr="EBE">Edison Bell Electron</label>
+			<label markets="(E)" abr="EBR">Edison Bell Radio</label>
+			<label markets="(E)" abr="EBW">Edison Bell Winner</label>
+			<label>Edition Collage</label>
+			<label>Editions Walrus</label>
+			<label markets="(F)" abr="EPN">Editions et Productions Nouvelles</label>
+			<label>Eksakt</label>
+			<label>Electro</label>
+			<label markets="(G)" abr="El">Electrola</label>
+			<label>Electromusik</label>
+			<label>Elektra</label>
+			<label>Elisabeth</label>
+			<label>Elite Record</label>
+			<label markets="(Sz)" abr="ES">Elite Special</label>
+			<label>Eljay's</label>
+			<label>Elspor</label>
+			<label>Eltag</label>
+			<label>Elver</label>
+			<label>Elysée</label>
+			<label markets="(USA)" abr="Em">EmArcy</label>
+			<label>Emanon</label>
+			<label>Embassy</label>
+			<label>Emidisc</label>
+			<label>Emigold</label>
+			<label>Empty Reel Records</label>
+			<label>En Vie Records</label>
+			<label>Encore</label>
+			<label>Encyclopedia</label>
+			<label>Enja</label>
+			<label>Entertainer</label>
+			<label>Epic</label>
+			<label>Erato</label>
+			<label markets="(E)" abr="Esq">Esquire</label>
+			<label>Etna Records</label>
+			<label>Eufoda</label>
+			<label>Euram Records</label>
+			<label>Eurec</label>
+			<label>Europa</label>
+			<label markets="(It)" abr="EurJ">Europa Jazz</label>
+			<label>Eurosound</label>
+			<label>Eustachius</label>
+			<label>Evasion</label>
+			<label>Everest</label>
+			<label>Evidence</label>
+			<label>Ex Libris</label>
+			<label>Expo Records</label>
+			<label>Extensions</label>
+			<label>F Music</label>
+			<label>FJF</label>
+			<label>FM Veri Sonics</label>
+			<label>FMP</label>
+			<label>FRS</label>
+			<label>Fabbri Editori</label>
+			<label>Fama</label>
+			<label>Fanfare</label>
+			<label>Fantasy</label>
+			<label>Far East</label>
+			<label>Farm</label>
+			<label>Fast</label>
+			<label>Fat Cat Jazz</label>
+			<label>Favorite</label>
+			<label>Feel The Jazz</label>
+			<label markets="(E)" abr="Fel">Felsted</label>
+			<label>Ferri Records</label>
+			<label>Festival</label>
+			<label>Festival Victory</label>
+			<label>Fidelio</label>
+			<label>Fidelson</label>
+			<label>Fiesta</label>
+			<label>Flamingo</label>
+			<label>Flapper</label>
+			<label>Flarenasch</label>
+			<label>Flat &amp; Sharp</label>
+			<label>Fly</label>
+			<label>Flying Dutchman</label>
+			<label>Fnac Music</label>
+			<label>Folkways</label>
+			<label>Fon</label>
+			<label>Fondy</label>
+			<label>Fonit Cetra</label>
+			<label>Fonopolis</label>
+			<label>Fonorex</label>
+			<label>Fonotecnica</label>
+			<label markets="(H/F)" abr="Fta">Fontana</label>
+			<label>Forlane International</label>
+			<label>Fotodisc Acetate</label>
+			<label>Franc'Amour</label>
+			<label>Frankie Records</label>
+			<label>Franklin Mint</label>
+			<label>Free Bird</label>
+			<label>Free Flow</label>
+			<label>Free Lance</label>
+			<label>Freedom</label>
+			<label markets="(Sp)" abr="FS">Fresh Sound Records</label>
+			<label>Frituna</label>
+			<label markets="(F)" abr="Fré">Frémeaux &amp; Associés</label>
+			<label>Fullhouse</label>
+			<label>G&amp;G</label>
+			<label>G&amp;T</label>
+			<label>G.H.B.</label>
+			<label>GAM Records</label>
+			<label>GB</label>
+			<label>GIP</label>
+			<label>GLM</label>
+			<label markets="(A)" abr="GNP">GNP Crescendo</label>
+			<label>GOWI Records</label>
+			<label>GRCJB</label>
+			<label>GRP</label>
+			<label>GRT</label>
+			<label markets="(H)" pernet_remark="(acetates)" abr="GTB">GTB</label>
+			<label>Gailly</label>
+			<label>Gala Classics</label>
+			<label>Gallerie</label>
+			<label>Gate</label>
+			<label>Gazell</label>
+			<label>Gee Bee Dee</label>
+			<label>Geffen</label>
+			<label>Gema</label>
+			<label markets="(A)" abr="GHB">George H. Buck</label>
+			<label>George Mox Music</label>
+			<label>Gevaphone</label>
+			<label>Giants Of Jazz</label>
+			<label>Gig</label>
+			<label>Gimique Records</label>
+			<label>Gipsy</label>
+			<label>Gladiator</label>
+			<label>Globo</label>
+			<label>Gold Records</label>
+			<label>Golden Era</label>
+			<label>Golden Hour</label>
+			<label>Golden River</label>
+			<label>Golden Stars</label>
+			<label>Goldies</label>
+			<label>Good Time Jazz</label>
+			<label>Gramavision</label>
+			<label>Grammoclub Ex Libris</label>
+			<label markets="(G)" abr="Gr">Grammophon</label>
+			<label>Grammophone</label>
+			<label markets="(It)" abr="Gr">Gramofono</label>
+			<label>Gramola</label>
+			<label markets="(F)" abr="Gr">Gramophone</label>
+			<label>Grannyphone</label>
+			<label>Grohag</label>
+			<label>Groove Records</label>
+			<label>HCM</label>
+			<label>HKM</label>
+			<label>HWYL Records</label>
+			<label>Halcyon</label>
+			<label>Hallmark</label>
+			<label>Halo</label>
+			<label>Hans</label>
+			<label>Happy Bird</label>
+			<label>Happy Days</label>
+			<label>Happy Days Series</label>
+			<label markets="(E)" abr="Har">Harlequin</label>
+			<label>Harmony</label>
+			<label>Harvest</label>
+			<label>Hasard</label>
+			<label>Heart</label>
+			<label>Heart Note</label>
+			<label>Hebra</label>
+			<label>Helia</label>
+			<label markets="(G)" abr="Hel">Heliodor</label>
+			<label>Hellaphon</label>
+			<label>Henry</label>
+			<label>Hep Records</label>
+			<label>Heritage</label>
+			<label>Het Muzieklop</label>
+			<label>Hewlet Packard</label>
+			<label>High Energy</label>
+			<label>Hill Recordings</label>
+			<label>Hill-Street Jazz</label>
+			<label markets="(B/E)" pernet_remark="F 1 to F200, H1 — Belgian. Others are British" abr="HMV">His Master's Voice</label>
+			<label markets="(B)" abr="H-T">Hit-Tune</label>
+			<label markets="(G)" pernet_remark="(mostly G)" abr="Ho">Homocord</label>
+			<label>Homère</label>
+			<label>Honest Arts Movement</label>
+			<label>Honky Tonk Rarities</label>
+			<label>Honky Tonk Records</label>
+			<label>Horizon</label>
+			<label>Horo</label>
+			<label>Hot</label>
+			<label>Hot Club Records</label>
+			<label markets="(B)" abr="HCB-RM">Hot Club de Belgique-Radio Monde</label>
+			<label>Hot Piano Classics</label>
+			<label>Hör Zu</label>
+			<label>Hörzu Exclusiv</label>
+			<label markets="(B)" pernet_remark="International Bestseller Company" abr="IBC">IBC</label>
+			<label>IDA</label>
+			<label>INR</label>
+			<label>IRS</label>
+			<label>ITM</label>
+			<label>Ibach</label>
+			<label>Idol</label>
+			<label>Igloo</label>
+			<label markets="(G/B/E)" pernet_remark="3000, 22000, 25000, 35000 are Belgian series." abr="Im">Imperial</label>
+			<label>Impuls</label>
+			<label>Impulse!</label>
+			<label>In Eigen Beheer</label>
+			<label>Inak</label>
+			<label>Inbel</label>
+			<label>Inner City Records</label>
+			<label>Innovation En Jazz</label>
+			<label>Intercord</label>
+			<label>Interdisc</label>
+			<label>Intermarco</label>
+			<label>Intermission</label>
+			<label>International</label>
+			<label>Intersound</label>
+			<label>Intuition</label>
+			<label>Iris Records</label>
+			<label>Ispahan</label>
+			<label>J'M2</label>
+			<label>J.A.S.</label>
+			<label>JCD Music</label>
+			<label>JEP Records</label>
+			<label>JG RECORDS</label>
+			<label>JHM</label>
+			<label>JM Records</label>
+			<label>JMC</label>
+			<label markets="(F)" abr="JMS.">JMS.</label>
+			<label>JRU</label>
+			<label>JSP Records</label>
+			<label>JW's Records</label>
+			<label>Jacques Perret</label>
+			<label>Jam</label>
+			<label>Jan Walravens</label>
+			<label>Janus</label>
+			<label>Jasmine</label>
+			<label>Jay Vee</label>
+			<label>Jazz &amp; Now</label>
+			<label>Jazz 4 Ever</label>
+			<label>Jazz Anthology</label>
+			<label>Jazz Archives</label>
+			<label>Jazz Band Records</label>
+			<label>Jazz Birdies Of Paradise</label>
+			<label>Jazz Café</label>
+			<label>Jazz Cats</label>
+			<label>Jazz City</label>
+			<label markets="(B)" pernet_remark="L.65640, 4200 series.&#10;1500 series — Jazz Club Imperial series." abr="JC">Jazz Club</label>
+			<label pernet_remark="(see ABC)" abr="JCF">Jazz Club Français</label>
+			<label>Jazz Crooner</label>
+			<label>Jazz Crusade</label>
+			<label>Jazz Hour</label>
+			<label markets="(Sz)" abr="JIB">Jazz In Basel</label>
+			<label markets="(F)" abr="JazzLeg">Jazz Legacy</label>
+			<label>Jazz Magazine</label>
+			<label>Jazz Man</label>
+			<label>Jazz Mâcon Club</label>
+			<label>Jazz O.P.</label>
+			<label>Jazz Rallye</label>
+			<label>Jazz Roots</label>
+			<label>Jazz Selection</label>
+			<label>Jazz Time</label>
+			<label>Jazz Unlimited</label>
+			<label>Jazz Up</label>
+			<label>Jazz View</label>
+			<label>Jazz World</label>
+			<label>Jazz Years</label>
+			<label>Jazz' Legend</label>
+			<label>Jazzette</label>
+			<label>Jazzland</label>
+			<label>Jazzletter</label>
+			<label>Jazzline</label>
+			<label>Jazzpoint</label>
+			<label>Jazzton</label>
+			<label>Jeal Records</label>
+			<label>Jet</label>
+			<label>Jeton</label>
+			<label>Joe Davis</label>
+			<label>Joker</label>
+			<label>Jolly Roger</label>
+			<label>Joseph Bol</label>
+			<label markets="(USA)" abr="Jub">Jubilee</label>
+			<label>Judson</label>
+			<label>Jumbo</label>
+			<label>Jump &amp; Shout</label>
+			<label>Jungle</label>
+			<label>Jupiter</label>
+			<label>Juttemis</label>
+			<label>KBL</label>
+			<label>KC</label>
+			<label>KCD</label>
+			<label>KPM Music</label>
+			<label>KTS</label>
+			<label>Kalliope</label>
+			<label>Kamikaze</label>
+			<label>Karussell</label>
+			<label>Kay Jazz</label>
+			<label>Kecskemét Jazz Foundation</label>
+			<label>Keltia Musique</label>
+			<label>Keytone</label>
+			<label>Kiddyphone</label>
+			<label>Killroy</label>
+			<label>Kimbo</label>
+			<label>King</label>
+			<label>King Records</label>
+			<label>Kingdom Jazz</label>
+			<label>Kings of Jazz</label>
+			<label markets="(G)" abr="K &amp; M">Klarinette &amp; Mandoline</label>
+			<label>Koala Records</label>
+			<label>Kokopelli</label>
+			<label>Kontakt</label>
+			<label>Kraftone</label>
+			<label markets="(G/H)" abr="Kr">Kristall</label>
+			<label>Kroko</label>
+			<label>Krone</label>
+			<label>Kubu</label>
+			<label>L'Amanité</label>
+			<label>L'EMP</label>
+			<label markets="(F)" pernet_remark=" (piano roll)" abr="EMP">L'Edition Musicale Perforée</label>
+			<label>L'Escargot</label>
+			<label markets="(B)" abr="LDH">LDH</label>
+			<label>LJFL</label>
+			<label>LRC</label>
+			<label>LV Records</label>
+			<label>La Nouvelle Equipe</label>
+			<label>La Roulotte</label>
+			<label markets="(It)" abr="VdP">La Voce del Padrone</label>
+			<label markets="(F)" abr="VsM">La Voix de son Maître</label>
+			<label>La Voz de su Amo</label>
+			<label>Label Bleu</label>
+			<label>Laika</label>
+			<label>Landscape</label>
+			<label>Lark</label>
+			<label>Lazy River Jazz Club</label>
+			<label markets="(F)" abr="CFD">Le Club Français du Disque</label>
+			<label>Le Jazz</label>
+			<label>Le Phare</label>
+			<label>Le Poste Parisien</label>
+			<label>Le Pygmi</label>
+			<label>Le Royal</label>
+			<label>Le dernier pour la route</label>
+			<label>Legacy</label>
+			<label>Legacy Columbia</label>
+			<label>Les Diques Du Crépuscule</label>
+			<label>Liberty</label>
+			<label>Lido</label>
+			<label>Limelight</label>
+			<label>Limetree</label>
+			<label>Lion</label>
+			<label>Little Circle</label>
+			<label>Liuto</label>
+			<label>Live Music</label>
+			<label>Living Era</label>
+			<label markets="(E)" abr="Lon">London</label>
+			<label>Looky</label>
+			<label>Love</label>
+			<label>Love Records</label>
+			<label>Lulu White's Black Label</label>
+			<label>Luxor-Gold</label>
+			<label>Lyrae</label>
+			<label markets="(Sz)" abr="M Records">M Records</label>
+			<label>M-A Music</label>
+			<label>M.A.D.</label>
+			<label>M.A.P. Records</label>
+			<label>MAK</label>
+			<label>MCA</label>
+			<label markets="(B)" pernet_remark="(Michel Dickenscheid) " abr="MD">MD</label>
+			<label>MDM Records</label>
+			<label>MFP</label>
+			<label>MGM Records</label>
+			<label>ML</label>
+			<label>MMS</label>
+			<label>MPS</label>
+			<label>MPS Records</label>
+			<label>MRP</label>
+			<label>MU Records</label>
+			<label>Made To Measure</label>
+			<label>Maene</label>
+			<label markets="(B)" abr="Mg">Magic</label>
+			<label>Magic Factory</label>
+			<label>Mainstream</label>
+			<label>Major Minor</label>
+			<label>Manhattan</label>
+			<label>Map Records</label>
+			<label>Marcal</label>
+			<label>Mark</label>
+			<label>Marl</label>
+			<label>Marlin</label>
+			<label>Marshall</label>
+			<label>Marshmallow</label>
+			<label>Master Jazz</label>
+			<label>Masterseal</label>
+			<label>Mayor</label>
+			<label>Meantime</label>
+			<label>Mecca</label>
+			<label>Media</label>
+			<label>Melodie</label>
+			<label>Melodija</label>
+			<label>Meloto</label>
+			<label>Memory Pop Shop</label>
+			<label>Meno Liechtenstein Records</label>
+			<label markets="(USA)" abr="My">Mercury</label>
+			<label>Mercy Records</label>
+			<label>Meteor</label>
+			<label>Metro</label>
+			<label>MetroJazz</label>
+			<label markets="(Sw)" abr="Met">Metronome</label>
+			<label markets="(G)" abr="Mph/Comet">Metrophon/Comet</label>
+			<label markets="(B)" abr="Mph">Metrophone</label>
+			<label>Metropol</label>
+			<label>Mex</label>
+			<label>Midget</label>
+			<label>Milan</label>
+			<label>Milestone</label>
+			<label>Milo Prod.</label>
+			<label>Miracle</label>
+			<label>Miramar</label>
+			<label>Miss You</label>
+			<label>Mit</label>
+			<label>Miura</label>
+			<label>Mobile Fidelity Sound Lab</label>
+			<label>Mode Serie</label>
+			<label>Mole Jazz</label>
+			<label>Monde Melody</label>
+			<label>Monmouth Evergreen</label>
+			<label>Monopole</label>
+			<label>Mons Records</label>
+			<label>Montebello</label>
+			<label>Mood Records</label>
+			<label>Moon</label>
+			<label>Mosaic</label>
+			<label>Moss</label>
+			<label>Mouette</label>
+			<label>Mr. Pickwick</label>
+			<label>Mudisque de France</label>
+			<label>Multimix</label>
+			<label>Munich Records</label>
+			<label>Muse Records</label>
+			<label>Musea</label>
+			<label>Music</label>
+			<label>Music Club</label>
+			<label>Music For Pleasure</label>
+			<label>Music Home Series</label>
+			<label>Music Memoria</label>
+			<label>Music On Tape</label>
+			<label>Music Reflexion</label>
+			<label markets="(It)" abr="Mu">Musica</label>
+			<label>Musica Jazz</label>
+			<label>Musicmasters</label>
+			<label markets="(F)" abr="Mus">Musidisc</label>
+			<label>Musidisc Jazz Anthology</label>
+			<label markets="(G)" abr="HB&amp;MM">Musikverlag H. Burger &amp; M. Müller</label>
+			<label>Musique Acoustique</label>
+			<label>Musique de France</label>
+			<label>Muskverlag H. Burger &amp; M. Müller</label>
+			<label>Muza</label>
+			<label>Mélodie Distribution</label>
+			<label>NCRV</label>
+			<label>NDR</label>
+			<label>NMP</label>
+			<label>NRS</label>
+			<label>NYC Records</label>
+			<label>Nabel</label>
+			<label>Nato</label>
+			<label>Nec Plus Ultra</label>
+			<label markets="(H)" abr="NJA">Nederlands Jazz Archief</label>
+			<label>Neon</label>
+			<label>New Fly</label>
+			<label markets="(B)" abr="NMC">New Music Corporation</label>
+			<label>New Sound</label>
+			<label>Nigram</label>
+			<label>Nivea Record</label>
+			<label>Nixa</label>
+			<label>No Man's Land</label>
+			<label>Nonesuch</label>
+			<label>Not On Label</label>
+			<label>Nova</label>
+			<label markets="(B)" abr="Nov">Novelty</label>
+			<label>Nuscop</label>
+			<label>O</label>
+			<label>OMD</label>
+			<label>OPE</label>
+			<label>Oceans</label>
+			<label markets="(Int'l)" abr="Od">Odeon</label>
+			<label markets="(B)" abr="Ol">Olympia</label>
+			<label markets="(F/B)" abr="OlF">Olympia Fumière</label>
+			<label>Olympic Records</label>
+			<label>Ombrads</label>
+			<label markets="(B/H)" pernet_remark="(Belgian partially for Dutch market)&#10;0.5000, 21.000, 22.000, 35.000, 60.000 are Belgian series&#10;(B/H LP's)" abr="Om">Omega</label>
+			<label markets="(USA)" abr="OmD">Omega Disk</label>
+			<label>Omega International</label>
+			<label>Omegatape</label>
+			<label>On Purpose Records</label>
+			<label markets="(H)" abr="OTL">On The Loose</label>
+			<label>Ooyevaer Disk</label>
+			<label>Op vrije voeten</label>
+			<label>Opera</label>
+			<label>Opika</label>
+			<label>Opskura</label>
+			<label>Opus</label>
+			<label>Opus 2</label>
+			<label>Orbis</label>
+			<label markets="(G)" abr="Orch">Orchestrola</label>
+			<label>Orfé</label>
+			<label>Organ</label>
+			<label markets="(USA)" abr="OJC">Original Jazz Classics</label>
+			<label>Oriole</label>
+			<label>Orphée</label>
+			<label>Oryx</label>
+			<label>Osterreichische Phonothek</label>
+			<label>Outlet</label>
+			<label>Oversea</label>
+			<label>Owl</label>
+			<label>Oxford</label>
+			<label>P &amp; J Music</label>
+			<label>PAN</label>
+			<label>PDI</label>
+			<label>PGP RTB</label>
+			<label>PMF</label>
+			<label>PPRO</label>
+			<label>Pablo</label>
+			<label>Pablo Live</label>
+			<label>Pablo Today</label>
+			<label markets="(F)" abr="Pac">Pacific</label>
+			<label>Pacific Jazz</label>
+			<label>Paddle Wheel</label>
+			<label>Pagode</label>
+			<label markets="(B)" abr="Expo">Pain Expo</label>
+			<label>Palace</label>
+			<label markets="(B/E/USA)" abr="Pal">Palette</label>
+			<label markets="(F)" abr="Pal/Vers">Palette Versailles</label>
+			<label>Palette/Versailles</label>
+			<label>Pallas</label>
+			<label>Palm</label>
+			<label>Palo Alto Records</label>
+			<label>Pam</label>
+			<label>Pan</label>
+			<label markets="(H)" abr="Pana">Panachord</label>
+			<label>Panda</label>
+			<label>Paradiso</label>
+			<label>Paris</label>
+			<label markets="(G)" abr="Pa">Parlophon</label>
+			<label markets="(E/B)" abr="Pa">Parlophone</label>
+			<label>Parsifal</label>
+			<label>Pastels</label>
+			<label>Pat More Records</label>
+			<label>Patershol</label>
+			<label markets="(F/Int'l)" abr="Pat">Pathé</label>
+			<label>Pathé Actuelle</label>
+			<label>Pathé-Art</label>
+			<label>Pathé-Marconi</label>
+			<label>Pausa</label>
+			<label>Pavane</label>
+			<label>Pee Wee Music</label>
+			<label>Pergola</label>
+			<label>Peter's Music Factory</label>
+			<label>Phaedra</label>
+			<label>Phantasie</label>
+			<label>Pharaon</label>
+			<label>Philippe Delfalle</label>
+			<label pernet_remark="(78') P19000H Series (B)" abr="Ph">Philips</label>
+			<label>Philology</label>
+			<label>Phonoband</label>
+			<label>Phonogram</label>
+			<label>Phonola</label>
+			<label>Phonoliszt-Violina</label>
+			<label>Phonycord</label>
+			<label>Piccadilly productions</label>
+			<label>Pick Up</label>
+			<label>Pickwick</label>
+			<label>Pierre Maire Prod</label>
+			<label>Pink Elephant</label>
+			<label>Planisphare</label>
+			<label>Platinum</label>
+			<label>Playboy</label>
+			<label>Pleyela</label>
+			<label>Plus</label>
+			<label>Plymouth</label>
+			<label>Pocket Record</label>
+			<label>Poljazz</label>
+			<label markets="(Int'l)" abr="Po">Polydor</label>
+			<label>Polydor Cinema Record</label>
+			<label>Polydor Special</label>
+			<label>Polygon</label>
+			<label>Polygone</label>
+			<label>Polygram</label>
+			<label>Polygram Jazz</label>
+			<label markets="(G/Dk)" abr="Pol">Polyphon</label>
+			<label>Polyvox</label>
+			<label>Pomme Music</label>
+			<label>Pop</label>
+			<label>Potlach</label>
+			<label>Powder</label>
+			<label>Pragmaphone</label>
+			<label markets="(USA)" abr="Prest">Prestige</label>
+			<label>Presto</label>
+			<label>Prime</label>
+			<label>Private Music</label>
+			<label>Pro Arte</label>
+			<label>Pro Jazz</label>
+			<label>Probe</label>
+			<label>Promax</label>
+			<label>Pulsion</label>
+			<label>Pumpkin Pie Records</label>
+			<label>Pye</label>
+			<label>Pye Golden Guinea Records</label>
+			<label>Pygmalion Records</label>
+			<label>Pymouth</label>
+			<label>Queen Disc</label>
+			<label>Quetzal</label>
+			<label>Quintescence</label>
+			<label>R.F.C.</label>
+			<label markets="(Int'l)" abr="RCA">RCA</label>
+			<label>RCA Camden</label>
+			<label markets="(USA)" abr="RCA-Vic">RCA Victor</label>
+			<label>RDC</label>
+			<label>RDC Records</label>
+			<label>RGE</label>
+			<label>RN</label>
+			<label>RRF</label>
+			<label>RST</label>
+			<label>RTB</label>
+			<label>RTV</label>
+			<label>Race Records</label>
+			<label>Racoon Records</label>
+			<label>Radio</label>
+			<label>Radio Liège</label>
+			<label>Radio Monde</label>
+			<label>Radiola</label>
+			<label markets="(G)" abr="Rad">Radiophon</label>
+			<label markets="(A/B)" abr="Rbw">Rainbow</label>
+			<label markets="(H)" abr="RFC">Ramblers Fan Club</label>
+			<label>Ranch</label>
+			<label>Raven</label>
+			<label markets="(USA/Int'l)" pernet_remark="(Selection of the) Reader's Digest" abr="Read">Reader's Digest</label>
+			<label>Reader's Digest Music</label>
+			<label>Rearward</label>
+			<label>Recordson</label>
+			<label>Red Bird</label>
+			<label>Redondel</label>
+			<label>Regal</label>
+			<label markets="(B)" abr="Re">Regina</label>
+			<label markets="(G)" pernet_remark="(acetate from Radio Broadcasts)" abr="RRG">Reichs-Rundfunk-Gesellschaft</label>
+			<label>Reinton</label>
+			<label>Relax</label>
+			<label>Remember</label>
+			<label>Renaissance</label>
+			<label>Renault</label>
+			<label markets="(B)" abr="Reney">Reneyphone</label>
+			<label>Rensie</label>
+			<label>René Gailly</label>
+			<label>Replica</label>
+			<label>Reprise</label>
+			<label markets="(E)" abr="Retr">Retrieval</label>
+			<label>Retro</label>
+			<label>Retro Jazz</label>
+			<label>Rewalliance Records</label>
+			<label>Reward Records</label>
+			<label>Rhino</label>
+			<label>Rhythm Records</label>
+			<label>Rhythme</label>
+			<label>Ricecar</label>
+			<label>Ricordi</label>
+			<label>Riff</label>
+			<label>Rijense Jazz Stichting</label>
+			<label>Ristic</label>
+			<label>Riva Records</label>
+			<label markets="(USA)" abr="Riv">Riverside</label>
+			<label>Riviera</label>
+			<label>Riviera Jazz Records</label>
+			<label>Rjm</label>
+			<label>Road Runner</label>
+			<label>Robbin</label>
+			<label markets="(B)" abr="RKM">Roland Kluger Music</label>
+			<label>Rondo</label>
+			<label markets="(B)" abr="Ron">Ronnex</label>
+			<label>Rose</label>
+			<label>Rose Records</label>
+			<label>Rosetta Records</label>
+			<label>Roth-Händle</label>
+			<label>Rowyna Music</label>
+			<label>Royal</label>
+			<label>Royal Jazz</label>
+			<label>Royale</label>
+			<label>Rush Records</label>
+			<label>Rusi</label>
+			<label markets="(B)" abr="Ry">Rythme</label>
+			<label markets="(F/B)" abr="RyF">Rythme Fumière</label>
+			<label>S.A.M. Records</label>
+			<label>S.V.H.</label>
+			<label>SABA</label>
+			<label>SAM Records</label>
+			<label>SBC Swiss Broadcasting Corporation</label>
+			<label>SFHCD</label>
+			<label>SFP</label>
+			<label>SMC</label>
+			<label>SMJB</label>
+			<label>SMS</label>
+			<label>SOV</label>
+			<label>SPA</label>
+			<label>SPM Records</label>
+			<label>SR International</label>
+			<label>Saga</label>
+			<label markets="(F)" abr="Sal">Salabert</label>
+			<label>Saravah</label>
+			<label>Sarpe</label>
+			<label>Saturne</label>
+			<label>Sauter Transport</label>
+			<label markets="(USA)" abr="Sav">Savoy</label>
+			<label>Savoy Jazz</label>
+			<label>Saxofoon</label>
+			<label>Saydisc</label>
+			<label>Scala</label>
+			<label>Scandia</label>
+			<label>Schlagerton</label>
+			<label>Schweizer Illustrierte</label>
+			<label>Scout</label>
+			<label>Sedisc</label>
+			<label>Seeco</label>
+			<label>Selection Records</label>
+			<label>Semda</label>
+			<label>September</label>
+			<label>Session</label>
+			<label>Seventh Records</label>
+			<label>Shadybrook</label>
+			<label>Shanachie</label>
+			<label>Shimmy</label>
+			<label>Shiva</label>
+			<label>Siemens</label>
+			<label>Siemens Polydor</label>
+			<label markets="(USA)" abr="Sig">Signature</label>
+			<label>Sigurd</label>
+			<label>Silence</label>
+			<label markets="(B)" abr="SB">Silver Bell</label>
+			<label>Sirena</label>
+			<label>Sittel</label>
+			<label>Smoke</label>
+			<label>Snow</label>
+			<label>Sofidoc</label>
+			<label markets="(F)" abr="Sof">Sofradi</label>
+			<label>Somethin' Else</label>
+			<label>Sonabel</label>
+			<label>Sonate</label>
+			<label>Sondor</label>
+			<label>Sonet</label>
+			<label>Sonia</label>
+			<label>Sonopresse</label>
+			<label>Sonor</label>
+			<label markets="(Sw)" abr="Sra">Sonora</label>
+			<label>Sony</label>
+			<label>Soul Note</label>
+			<label>Sound Hills</label>
+			<label>Sounds Of Music</label>
+			<label>Sounds Superb</label>
+			<label markets="(G)" abr="SpecRec">Special Record</label>
+			<label markets="(B)" abr="Sph">Sphinx</label>
+			<label>Spirale</label>
+			<label>Spirit Jazz</label>
+			<label>Spotlite</label>
+			<label>Standard</label>
+			<label>Star</label>
+			<label>Star Sound Studio</label>
+			<label>Stash</label>
+			<label>Stateside</label>
+			<label>SteepleChase</label>
+			<label>Stichting Vrijere Muziek</label>
+			<label>Stolz</label>
+			<label>Stomp Off Records</label>
+			<label>Storyville</label>
+			<label>Strand</label>
+			<label>Strave</label>
+			<label>Strictly Jazz</label>
+			<label>String</label>
+			<label>Studio 80</label>
+			<label>Studio B Brabant</label>
+			<label>Studio du Disque</label>
+			<label>Sub Rosa</label>
+			<label>Suisa</label>
+			<label>Summit</label>
+			<label>Sun</label>
+			<label>Sun Records</label>
+			<label>Sunderland</label>
+			<label>Sunset</label>
+			<label>Super Music</label>
+			<label>Supertonic</label>
+			<label>Supra</label>
+			<label markets="(Cz)" abr="Sup">Supraphon</label>
+			<label markets="(F)" abr="Sup">Supraphone</label>
+			<label>Supreme Records</label>
+			<label>Sutton</label>
+			<label>Suzy</label>
+			<label markets="(F)" abr="Sw">Swing</label>
+			<label>Swingfan</label>
+			<label>Swingtime</label>
+			<label>Swiss Jazz</label>
+			<label>Symphonion</label>
+			<label>Syrinx Records</label>
+			<label>Sélection du Reader's Digest</label>
+			<label>T.K. Records</label>
+			<label>TCB Records</label>
+			<label>TCD</label>
+			<label>TERN</label>
+			<label>TWEN</label>
+			<label>Talent</label>
+			<label>Tapioca</label>
+			<label>Tauro</label>
+			<label>Teldec</label>
+			<label markets="(G/Cz)" abr="Te">Telefunken</label>
+			<label>Telefunken ‎</label>
+			<label>Televox</label>
+			<label>Tell</label>
+			<label markets="(G)" abr="Tp">Tempo</label>
+			<label>Tempotape</label>
+			<label>Teppaz</label>
+			<label>The Entertainers</label>
+			<label>The Ready Jazz Band</label>
+			<label>The Synchro</label>
+			<label>Time</label>
+			<label>Time Life</label>
+			<label>Timeless Records</label>
+			<label>Tobacco Road</label>
+			<label>Tonalty</label>
+			<label>Tondo</label>
+			<label>Tono</label>
+			<label>Tonodisc</label>
+			<label>Top Classic</label>
+			<label markets="(G)" abr="Hist">Top Classic Historia</label>
+			<label>Topsound</label>
+			<label>Transition</label>
+			<label>Travel Sound</label>
+			<label>Travers</label>
+			<label>Trax</label>
+			<label>Trema</label>
+			<label>Trend</label>
+			<label>Triangle</label>
+			<label>Trianon</label>
+			<label>Trikont</label>
+			<label>Tring International</label>
+			<label>Trio Records</label>
+			<label>Triomphe</label>
+			<label>Triomphe Records</label>
+			<label>Tritonus</label>
+			<label>Triva</label>
+			<label>Tros</label>
+			<label>Trova</label>
+			<label>Tune</label>
+			<label>Twinkle</label>
+			<label>URA</label>
+			<label>USA</label>
+			<label>USW Records</label>
+			<label markets="(Cz/G)" abr="Ul">Ultraphon</label>
+			<label markets="(F)" abr="Ul">Ultraphone</label>
+			<label>Ultraphonic</label>
+			<label>Uncle John Productions</label>
+			<label>Une Musique</label>
+			<label>Union</label>
+			<label>Unique Option</label>
+			<label>Univers Records</label>
+			<label>Universe</label>
+			<label>Universe Productions</label>
+			<label>University</label>
+			<label>Usiba</label>
+			<label>VBL</label>
+			<label>VH</label>
+			<label>VIA Jazz</label>
+			<label>VIP Record</label>
+			<label>VJB</label>
+			<label>VJM</label>
+			<label>VKH</label>
+			<label>VPS</label>
+			<label>VSOP</label>
+			<label>VV Productions</label>
+			<label>Valentine Records</label>
+			<label>Vanguard Classics</label>
+			<label>Varagram</label>
+			<label>Varsity</label>
+			<label>Vedette</label>
+			<label>Vega</label>
+			<label markets="(F)" abr="Vers">Versailles</label>
+			<label>Vertigo</label>
+			<label markets="(USA)" abr="Ve">Verve</label>
+			<label>Verve Forecast</label>
+			<label>Vi</label>
+			<label markets="(USA)" abr="Vic">Victor</label>
+			<label>Victoria</label>
+			<label markets="(B)" abr="Vy">Victory</label>
+			<label>Videocam</label>
+			<label>Vik</label>
+			<label>Vineta</label>
+			<label>Virgin</label>
+			<label>Visadisc</label>
+			<label markets="(E)" abr="Vo">Vocalion</label>
+			<label>Vogel</label>
+			<label markets="(F/E)" abr="Vg">Vogue</label>
+			<label markets="(G)" abr="VdM">Volksverband der Musikfreunde</label>
+			<label>Vox</label>
+			<label>Vox Temporis</label>
+			<label>Voz de su Amo</label>
+			<label>Vv Records</label>
+			<label>W.B. Sound</label>
+			<label>W.E.R.F.</label>
+			<label>WDF</label>
+			<label>WDR</label>
+			<label markets="(Int'l)" pernet_remark="(Warner-Elektra-Atlantic)" abr="WEA">WEA</label>
+			<label>WH Records</label>
+			<label>WIMpro</label>
+			<label>WMC</label>
+			<label>WR</label>
+			<label>WWM</label>
+			<label>Wagram Music</label>
+			<label markets="(B)" abr="WBM">Wallonie-Bruxelles Musiques</label>
+			<label>Walravens</label>
+			<label markets="(USA)" abr="WB">Warner Bros. Records</label>
+			<label>Waste</label>
+			<label>Waterloo</label>
+			<label>Watt</label>
+			<label>Week End</label>
+			<label>Wergo</label>
+			<label>West Wind</label>
+			<label>Westside</label>
+			<label>Westwood</label>
+			<label>Will</label>
+			<label>Winner</label>
+			<label>Woodford Music</label>
+			<label>Woolco</label>
+			<label>World Citizen Records</label>
+			<label markets="(E)" abr="World">World Record Club</label>
+			<label>World Records</label>
+			<label>World Wide</label>
+			<label>Wuba</label>
+			<label>Xanadu</label>
+			<label>Yale University Press</label>
+			<label>Yard</label>
+			<label>Yesterdays Gold</label>
+			<label>Young Blood</label>
+			<label>Yves Saint Laurent</label>
+			<label>ZDF</label>
+			<label>ZYX Music</label>
+			<label>ZZP</label>
+			<label>ZeMuk</label>
+			<label>Zebra Acousti</label>
+			<label>Zenith Sound Disco</label>
+			<label>Zephyr</label>
+			<label markets="(E)" abr="Zon">Zonophone</label>
+			<label>amc</label>
+			<label>anonymous</label>
+			<label>ddf</label>
+			<label>de Nederlandse Pocketplaat</label>
+			<label>dk disc</label>
+			<label>erronously printed as</label>
+			<label>inky art</label>
+			<label>private Acetate</label>
+			<label>unidentified label</label>
+			<label>veraBra Records</label>
+			<label>white label</label>
+			<label>yvp music</label>
+		</labels>
+    </meta>
+</belgianjazzdiscography>
